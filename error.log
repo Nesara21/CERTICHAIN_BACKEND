@@ -1,0 +1,228 @@
+{"correlationId":"97fc274b-79ad-4626-aab1-d66d160ce491","level":"error","message":"[97fc274b-79ad-4626-aab1-d66d160ce491] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:41.915Z"}
+{"correlationId":"e335a74b-8a00-4d84-a015-fa31c2599f9d","level":"error","message":"[e335a74b-8a00-4d84-a015-fa31c2599f9d] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:43.628Z"}
+{"correlationId":"fb520503-1b9e-4c74-858d-64f9823585a3","level":"error","message":"[fb520503-1b9e-4c74-858d-64f9823585a3] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:44.564Z"}
+{"correlationId":"cc0e622c-2b13-497b-a5f8-20927414dd26","level":"error","message":"[cc0e622c-2b13-497b-a5f8-20927414dd26] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:45.223Z"}
+{"correlationId":"4e155ee5-95dc-4b00-9fb1-03bf01aae8d0","level":"error","message":"[4e155ee5-95dc-4b00-9fb1-03bf01aae8d0] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:45.740Z"}
+{"correlationId":"8b32a349-51cd-4b46-94b0-3055f3d38e5c","level":"error","message":"[8b32a349-51cd-4b46-94b0-3055f3d38e5c] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:45.956Z"}
+{"correlationId":"99164a5b-7245-40a0-8d40-e9a45ba0e0ca","level":"error","message":"[99164a5b-7245-40a0-8d40-e9a45ba0e0ca] Error updating request: AWS_S3_BUCKET_NAME is not defined","timestamp":"2025-11-30T06:01:47.511Z"}
+{"correlationId":"8499a99b-86a8-4d38-8411-3e7a37e824bc","level":"error","message":"[8499a99b-86a8-4d38-8411-3e7a37e824bc] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:48.342Z"}
+{"correlationId":"4306ac7c-d138-4414-b5f1-6251cfcb6d28","level":"error","message":"[4306ac7c-d138-4414-b5f1-6251cfcb6d28] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:49.057Z"}
+{"correlationId":"79e01846-2b0f-45ab-9956-8a0c014f2626","level":"error","message":"[79e01846-2b0f-45ab-9956-8a0c014f2626] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:49.250Z"}
+{"correlationId":"34d13dde-585f-4bf2-95d7-4836ec582101","level":"error","message":"[34d13dde-585f-4bf2-95d7-4836ec582101] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:49.479Z"}
+{"correlationId":"6388a4c2-80f7-48dd-a33d-02d98be66b58","level":"error","message":"[6388a4c2-80f7-48dd-a33d-02d98be66b58] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:53.991Z"}
+{"correlationId":"006d73eb-8e5f-44fb-9566-44e38c1d7319","level":"error","message":"[006d73eb-8e5f-44fb-9566-44e38c1d7319] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:54.680Z"}
+{"correlationId":"edfa665c-0ecb-4989-97d7-53999e253422","level":"error","message":"[edfa665c-0ecb-4989-97d7-53999e253422] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:54.933Z"}
+{"correlationId":"9d8ddcb8-d36d-416a-99b8-f4f3fe7bbbcf","level":"error","message":"[9d8ddcb8-d36d-416a-99b8-f4f3fe7bbbcf] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:01:55.150Z"}
+{"correlationId":"4394502f-c264-45ec-ac62-52c84c0afeab","level":"error","message":"[4394502f-c264-45ec-ac62-52c84c0afeab] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:56.778Z"}
+{"correlationId":"71d4e6c0-2227-4d70-9e55-d1f394240080","level":"error","message":"[71d4e6c0-2227-4d70-9e55-d1f394240080] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:57.344Z"}
+{"correlationId":"10d47e78-7501-4b0b-84a8-cd4f9af07b8f","level":"error","message":"[10d47e78-7501-4b0b-84a8-cd4f9af07b8f] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:57.574Z"}
+{"correlationId":"65311982-3e40-4a35-b119-39f0bf1f888e","level":"error","message":"[65311982-3e40-4a35-b119-39f0bf1f888e] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:58.791Z"}
+{"correlationId":"dd69ab3f-8deb-4e3a-b649-c3ad152837b3","level":"error","message":"[dd69ab3f-8deb-4e3a-b649-c3ad152837b3] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:59.277Z"}
+{"correlationId":"3101bdef-4434-469a-81a3-18a75aad8748","level":"error","message":"[3101bdef-4434-469a-81a3-18a75aad8748] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:01:59.504Z"}
+{"correlationId":"644fde82-3764-418b-811a-cba2ed187ee8","level":"error","message":"[644fde82-3764-418b-811a-cba2ed187ee8] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:02:12.115Z"}
+{"correlationId":"d76daca4-5ebc-45aa-88e5-13135a341f6b","level":"error","message":"[d76daca4-5ebc-45aa-88e5-13135a341f6b] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:02:13.259Z"}
+{"correlationId":"f759bff4-cb04-483e-be16-6aa7ce1e79de","level":"error","message":"[f759bff4-cb04-483e-be16-6aa7ce1e79de] Error updating request: Duplicate entry '4' for key 'participation_certificates.request_id'","timestamp":"2025-11-30T06:02:14.780Z"}
+{"correlationId":"9ae68b3e-6bfd-4430-86d3-8f413800a348","level":"error","message":"[9ae68b3e-6bfd-4430-86d3-8f413800a348] Error updating request: AWS_S3_BUCKET_NAME is not defined","timestamp":"2025-11-30T06:03:04.282Z"}
+{"correlationId":"c01adf2f-8dbc-4ea8-81b5-875f58bfff3d","level":"error","message":"[c01adf2f-8dbc-4ea8-81b5-875f58bfff3d] Error updating request: Duplicate entry '6' for key 'achievement_certificates.request_id'","timestamp":"2025-11-30T06:03:05.282Z"}
+{"correlationId":"aceed6e9-e828-43e1-941b-c77af36dfdd2","level":"error","message":"[aceed6e9-e828-43e1-941b-c77af36dfdd2] Error updating request: AWS_S3_BUCKET_NAME is not defined","timestamp":"2025-11-30T06:06:28.047Z"}
+{"correlationId":"c7f36e0a-7d9a-439b-a56f-7875b21dd4f0","level":"error","message":"[c7f36e0a-7d9a-439b-a56f-7875b21dd4f0] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:29.048Z"}
+{"correlationId":"12c396be-8a6e-4a64-aadf-b83289fb0189","level":"error","message":"[12c396be-8a6e-4a64-aadf-b83289fb0189] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:29.635Z"}
+{"correlationId":"387ea710-8195-437d-bfe3-e121560d01ce","level":"error","message":"[387ea710-8195-437d-bfe3-e121560d01ce] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:29.853Z"}
+{"correlationId":"51926965-30f8-4e1d-aa8a-008b065830a5","level":"error","message":"[51926965-30f8-4e1d-aa8a-008b065830a5] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:32.511Z"}
+{"correlationId":"44a6ffcc-c0cd-4b38-98d9-cf9c8315bb02","level":"error","message":"[44a6ffcc-c0cd-4b38-98d9-cf9c8315bb02] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:33.275Z"}
+{"correlationId":"b1c5bf7f-d6c0-4fb6-a45a-010e530d988e","level":"error","message":"[b1c5bf7f-d6c0-4fb6-a45a-010e530d988e] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:33.556Z"}
+{"correlationId":"42e021dd-c312-43fb-ac8f-98025bedff09","level":"error","message":"[42e021dd-c312-43fb-ac8f-98025bedff09] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:33.756Z"}
+{"correlationId":"c58b3219-eb9b-4b26-8aed-2c127ca5c1e9","level":"error","message":"[c58b3219-eb9b-4b26-8aed-2c127ca5c1e9] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:33.924Z"}
+{"correlationId":"08ab3f1a-326f-4106-af66-d3fb6db382ba","level":"error","message":"[08ab3f1a-326f-4106-af66-d3fb6db382ba] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:34.160Z"}
+{"correlationId":"a33fff53-b894-477b-8358-8912445d172b","level":"error","message":"[a33fff53-b894-477b-8358-8912445d172b] Error updating request: Duplicate entry '7' for key 'transfer_certificates.request_id'","timestamp":"2025-11-30T06:06:37.084Z"}
+{"correlationId":"60269fbb-c796-4257-b829-5cb0bd13e6b4","level":"error","message":"[60269fbb-c796-4257-b829-5cb0bd13e6b4] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:36.264Z"}
+{"correlationId":"94b4b6ee-fa82-4fb1-a606-7dcaa775f421","level":"error","message":"[94b4b6ee-fa82-4fb1-a606-7dcaa775f421] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:37.204Z"}
+{"correlationId":"20f0301c-9ae4-440b-bd48-d61b3ba7643d","level":"error","message":"[20f0301c-9ae4-440b-bd48-d61b3ba7643d] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:37.408Z"}
+{"correlationId":"38535fe2-fd94-4cad-845a-65dcbe998ed3","level":"error","message":"[38535fe2-fd94-4cad-845a-65dcbe998ed3] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:37.627Z"}
+{"correlationId":"a5d8e248-d7cc-40c1-9211-e6b40780e53d","level":"error","message":"[a5d8e248-d7cc-40c1-9211-e6b40780e53d] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:39.180Z"}
+{"correlationId":"51cbd219-9739-41f6-aea5-d4b6c93fb2d9","level":"error","message":"[51cbd219-9739-41f6-aea5-d4b6c93fb2d9] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:39.364Z"}
+{"correlationId":"3c1ddf8e-1383-431c-9223-9e960d7624c9","level":"error","message":"[3c1ddf8e-1383-431c-9223-9e960d7624c9] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:39.543Z"}
+{"correlationId":"452e5cb4-0b6e-43bb-9361-1e6a249cf16b","level":"error","message":"[452e5cb4-0b6e-43bb-9361-1e6a249cf16b] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:39.697Z"}
+{"correlationId":"47e44576-4ea0-4d9c-ba4b-16a941ff4199","level":"error","message":"[47e44576-4ea0-4d9c-ba4b-16a941ff4199] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:39.869Z"}
+{"correlationId":"afca05f8-43df-4f45-89fb-773c5c1319b4","level":"error","message":"[afca05f8-43df-4f45-89fb-773c5c1319b4] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:08:40.096Z"}
+{"correlationId":"bee0a6b2-47b8-431f-8efc-b15ce094325f","level":"error","message":"[bee0a6b2-47b8-431f-8efc-b15ce094325f] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:13.258Z"}
+{"correlationId":"8cfe93a8-aa54-4e65-a9cf-690eda43a1f3","level":"error","message":"[8cfe93a8-aa54-4e65-a9cf-690eda43a1f3] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:14.199Z"}
+{"correlationId":"00390c4f-2b10-4577-b1bf-0af87631e715","level":"error","message":"[00390c4f-2b10-4577-b1bf-0af87631e715] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:14.376Z"}
+{"correlationId":"328d5022-b07f-4a3b-959c-0cd6f0aa425c","level":"error","message":"[328d5022-b07f-4a3b-959c-0cd6f0aa425c] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:14.540Z"}
+{"correlationId":"ce2c0f82-5449-4ca0-a187-c753a1158108","level":"error","message":"[ce2c0f82-5449-4ca0-a187-c753a1158108] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:14.771Z"}
+{"correlationId":"389e04ac-3bf4-475e-a9ff-8afe9cb2db8e","level":"error","message":"[389e04ac-3bf4-475e-a9ff-8afe9cb2db8e] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:17.637Z"}
+{"correlationId":"3ca77e0b-afb8-4f95-9b8f-c83cd0a1afd3","level":"error","message":"[3ca77e0b-afb8-4f95-9b8f-c83cd0a1afd3] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:18.345Z"}
+{"correlationId":"616f5815-c12a-4975-85d1-ac8c2b183dab","level":"error","message":"[616f5815-c12a-4975-85d1-ac8c2b183dab] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:18.516Z"}
+{"correlationId":"17cd4944-4eb2-4b70-a3b1-80b30dd62922","level":"error","message":"[17cd4944-4eb2-4b70-a3b1-80b30dd62922] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:18.742Z"}
+{"correlationId":"fde7510b-5d5a-4b88-a79b-7be599b154b4","level":"error","message":"[fde7510b-5d5a-4b88-a79b-7be599b154b4] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:19.157Z"}
+{"correlationId":"fa081673-b312-4c46-a1ea-c3674bc8f4f0","level":"error","message":"[fa081673-b312-4c46-a1ea-c3674bc8f4f0] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:19.311Z"}
+{"correlationId":"ec5407c7-1f7b-4106-8a61-00f59f4143be","level":"error","message":"[ec5407c7-1f7b-4106-8a61-00f59f4143be] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:18:19.535Z"}
+{"correlationId":"c50dcee9-77b3-4991-8981-414a1b885f5f","level":"error","message":"[c50dcee9-77b3-4991-8981-414a1b885f5f] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:20:48.982Z"}
+{"correlationId":"c6134978-fb2b-4365-9fb6-49d0d4cc9b9a","level":"error","message":"[c6134978-fb2b-4365-9fb6-49d0d4cc9b9a] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:20:49.779Z"}
+{"correlationId":"944b97bf-baa9-48b0-9e73-c15ed04e13a2","level":"error","message":"[944b97bf-baa9-48b0-9e73-c15ed04e13a2] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:20:49.942Z"}
+{"correlationId":"4d02929d-3208-49c2-9a82-5e67310fb9b8","level":"error","message":"[4d02929d-3208-49c2-9a82-5e67310fb9b8] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:20:50.115Z"}
+{"correlationId":"29ecc55a-0715-4d4b-a3c4-ddc0d42a7810","level":"error","message":"[29ecc55a-0715-4d4b-a3c4-ddc0d42a7810] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:20:50.343Z"}
+{"correlationId":"d3f0b1b0-6015-4a53-b00b-d6801672fe2b","level":"error","message":"[d3f0b1b0-6015-4a53-b00b-d6801672fe2b] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:21:59.681Z"}
+{"correlationId":"1065b9f2-ed80-4c9b-aedc-7a78948e68c2","level":"error","message":"[1065b9f2-ed80-4c9b-aedc-7a78948e68c2] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T06:27:27.907Z"}
+{"correlationId":"e57d1dd0-55a0-4878-8843-99b21ea6ad52","level":"error","message":"[e57d1dd0-55a0-4878-8843-99b21ea6ad52] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:37:33.227Z"}
+{"correlationId":"2eb66b07-c0ff-424b-9e11-fe3d304a8640","level":"error","message":"[2eb66b07-c0ff-424b-9e11-fe3d304a8640] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:43.332Z"}
+{"correlationId":"ef8921cf-8ed1-4c86-a080-a93d853061ac","level":"error","message":"[ef8921cf-8ed1-4c86-a080-a93d853061ac] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:45.101Z"}
+{"correlationId":"807acf30-93d6-40d4-a97c-21b2f4572079","level":"error","message":"[807acf30-93d6-40d4-a97c-21b2f4572079] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:46.531Z"}
+{"correlationId":"0ec2be8b-79b1-43e7-bd39-0d5508049f2d","level":"error","message":"[0ec2be8b-79b1-43e7-bd39-0d5508049f2d] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:47.229Z"}
+{"correlationId":"9c87ac00-23be-41d4-b6e7-42c405653ff2","level":"error","message":"[9c87ac00-23be-41d4-b6e7-42c405653ff2] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:47.423Z"}
+{"correlationId":"0d056186-d986-4008-8f2f-a25bce254a05","level":"error","message":"[0d056186-d986-4008-8f2f-a25bce254a05] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:47.653Z"}
+{"correlationId":"df2d40f8-958a-479e-bf82-b2402b7b7ae1","level":"error","message":"[df2d40f8-958a-479e-bf82-b2402b7b7ae1] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:49.186Z"}
+{"correlationId":"b58b289d-095b-41c6-bf71-cc3dbfb496f4","level":"error","message":"[b58b289d-095b-41c6-bf71-cc3dbfb496f4] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:49.636Z"}
+{"correlationId":"03aacb0e-7a17-4182-b394-930e386525ec","level":"error","message":"[03aacb0e-7a17-4182-b394-930e386525ec] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:49.805Z"}
+{"correlationId":"e8126feb-b061-49c9-a2c6-be86740a169b","level":"error","message":"[e8126feb-b061-49c9-a2c6-be86740a169b] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:49.972Z"}
+{"correlationId":"e9fed348-443d-4098-b03e-c28dce2bad84","level":"error","message":"[e9fed348-443d-4098-b03e-c28dce2bad84] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:50.193Z"}
+{"correlationId":"8340cee0-ec9f-433a-8a7a-6d2fe3c427af","level":"error","message":"[8340cee0-ec9f-433a-8a7a-6d2fe3c427af] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:56.089Z"}
+{"correlationId":"ee892625-afb5-4b03-81f9-b37a6996ccd7","level":"error","message":"[ee892625-afb5-4b03-81f9-b37a6996ccd7] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:42:56.665Z"}
+{"correlationId":"2174e76d-51b1-4cb6-a745-0ccfe18ae15f","level":"error","message":"[2174e76d-51b1-4cb6-a745-0ccfe18ae15f] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:44:26.214Z"}
+{"correlationId":"0cdb69ee-d7cc-41d7-8146-0039f42b0816","level":"error","message":"[0cdb69ee-d7cc-41d7-8146-0039f42b0816] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:44:27.535Z"}
+{"correlationId":"8d346310-c393-4d5a-9e0d-2c6c15fc84f5","level":"error","message":"[8d346310-c393-4d5a-9e0d-2c6c15fc84f5] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:44:28.081Z"}
+{"correlationId":"88695adc-bba9-4d6a-9189-dc387e261c6c","level":"error","message":"[88695adc-bba9-4d6a-9189-dc387e261c6c] Error updating request: Unknown column 'student_usn' in 'field list'","timestamp":"2025-11-30T07:44:28.306Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T07:48:06.791Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T07:48:06.792Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T07:49:21.526Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T07:49:21.527Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T07:51:48.598Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T07:51:48.599Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T07:54:50.931Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T07:54:50.932Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T07:57:44.022Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T07:57:44.023Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T07:57:53.334Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T07:57:53.335Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T11:43:23.674Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T11:43:23.675Z"}
+{"correlationId":"6dd0aacb-0778-4756-ada0-311b29c911ba","level":"error","message":"[6dd0aacb-0778-4756-ada0-311b29c911ba] Error updating request: Column 'student_name' cannot be null","timestamp":"2025-11-30T13:13:15.513Z"}
+{"correlationId":"755957d9-7335-4875-94ae-2a33a7f73426","level":"error","message":"[755957d9-7335-4875-94ae-2a33a7f73426] Error updating request: Column 'student_name' cannot be null","timestamp":"2025-11-30T13:13:33.307Z"}
+{"correlationId":"51903547-b1e0-49f7-bafc-a73b84f006b9","level":"error","message":"[51903547-b1e0-49f7-bafc-a73b84f006b9] Error updating request: Column 'student_name' cannot be null","timestamp":"2025-11-30T13:18:12.550Z"}
+{"correlationId":"91182293-8f44-4736-95c7-a15595bed22e","level":"error","message":"[91182293-8f44-4736-95c7-a15595bed22e] Error updating request: Column 'student_name' cannot be null","timestamp":"2025-11-30T13:18:19.568Z"}
+{"correlationId":"81cde24a-2f97-4aeb-8236-a106eb7dc9b1","level":"error","message":"[81cde24a-2f97-4aeb-8236-a106eb7dc9b1] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:21:45.449Z"}
+{"correlationId":"3f003f91-f40d-4c88-885d-4a920e819286","level":"error","message":"[3f003f91-f40d-4c88-885d-4a920e819286] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:21:56.696Z"}
+{"correlationId":"58cf5095-8cd7-4ae7-a888-9a3dc382ba65","level":"error","message":"[58cf5095-8cd7-4ae7-a888-9a3dc382ba65] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:22:02.732Z"}
+{"correlationId":"e9395ba7-42a1-4128-bcc8-9ff6526dde76","level":"error","message":"[e9395ba7-42a1-4128-bcc8-9ff6526dde76] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:22:03.663Z"}
+{"correlationId":"a4ea04f2-f742-4a5c-b60d-7c6f20821bdc","level":"error","message":"[a4ea04f2-f742-4a5c-b60d-7c6f20821bdc] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:22:03.975Z"}
+{"correlationId":"2d066eb1-d695-4850-9e83-af6a318de5f4","level":"error","message":"[2d066eb1-d695-4850-9e83-af6a318de5f4] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:22:04.200Z"}
+{"correlationId":"e11f9970-6664-4478-8f0f-6924b47def9f","level":"error","message":"[e11f9970-6664-4478-8f0f-6924b47def9f] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:22:09.962Z"}
+{"correlationId":"08731a1a-9bf6-4b42-83bd-131758e2f0ed","level":"error","message":"[08731a1a-9bf6-4b42-83bd-131758e2f0ed] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:23:50.330Z"}
+{"correlationId":"cb10ee13-f99b-44ee-a49e-6e9346b6395f","level":"error","message":"[cb10ee13-f99b-44ee-a49e-6e9346b6395f] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:29:08.885Z"}
+{"correlationId":"198250da-dc31-44c1-8ab5-6cd4371e1a42","level":"error","message":"[198250da-dc31-44c1-8ab5-6cd4371e1a42] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:29:20.778Z"}
+{"correlationId":"f9cd805b-7d2d-4a73-a2d1-542e92cdf942","level":"error","message":"[f9cd805b-7d2d-4a73-a2d1-542e92cdf942] Error updating request: Column 'institute_name' cannot be null","timestamp":"2025-11-30T13:29:24.816Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T13:32:52.615Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T13:32:52.615Z"}
+{"correlationId":"e030d971-711f-4e6f-9f59-352c16e67e65","level":"error","message":"[e030d971-711f-4e6f-9f59-352c16e67e65] Error updating request: Column 'event_location' cannot be null","timestamp":"2025-11-30T14:15:46.704Z"}
+{"correlationId":"53948796-faca-4126-bb1f-5c611099d0bb","level":"error","message":"[53948796-faca-4126-bb1f-5c611099d0bb] Error updating request: Column 'event_location' cannot be null","timestamp":"2025-11-30T14:16:08.785Z"}
+{"correlationId":"5859479c-961a-411a-a34c-c562edc217c1","level":"error","message":"[5859479c-961a-411a-a34c-c562edc217c1] Error updating request: Column 'event_location' cannot be null","timestamp":"2025-11-30T14:26:55.761Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T14:31:19.299Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T14:31:19.299Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T14:48:34.897Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T14:48:34.897Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-11-30T14:55:05.450Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-11-30T14:55:05.451Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T04:41:45.587Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T04:41:45.588Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T04:44:46.648Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T04:44:46.649Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T04:51:58.396Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T04:51:58.397Z"}
+{"correlationId":"7707f2cb-8baf-41ad-9559-022fd900f1af","level":"error","message":"[7707f2cb-8baf-41ad-9559-022fd900f1af] Error updating request: Duplicate entry '12' for key 'transfer_certificates.request_id'","timestamp":"2025-12-01T07:21:59.494Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T07:22:04.614Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T07:22:04.615Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T10:58:51.249Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T10:58:51.250Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T11:01:07.238Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T11:01:07.238Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T11:37:32.489Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T11:37:32.490Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T11:42:19.752Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T11:42:19.753Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T11:46:41.843Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T11:46:41.844Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T12:06:28.922Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T12:06:28.923Z"}
+{"correlationId":"f25cd572-2ee7-49fa-a493-617a1d834525","level":"error","message":"[f25cd572-2ee7-49fa-a493-617a1d834525] Error updating request: Table 'certichain.bonafide_certificates' doesn't exist","timestamp":"2025-12-01T14:19:54.164Z"}
+{"correlationId":"a83cba1d-c755-4c77-a448-625f48cd11ec","level":"error","message":"[a83cba1d-c755-4c77-a448-625f48cd11ec] Error updating request: Table 'certichain.bonafide_certificates' doesn't exist","timestamp":"2025-12-01T14:20:01.704Z"}
+{"correlationId":"1fd844b7-44b7-4b1b-8bb9-bef75830e381","level":"error","message":"[1fd844b7-44b7-4b1b-8bb9-bef75830e381] Error updating request: Table 'certichain.achievement_certificates' doesn't exist","timestamp":"2025-12-01T14:20:18.724Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T15:46:31.174Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T15:46:31.175Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T15:48:03.261Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T15:48:03.262Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T15:55:42.676Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T15:55:42.677Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T15:57:50.816Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T15:57:50.816Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-01T17:15:43.985Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-01T17:15:43.987Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-02T10:19:31.828Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-02T10:19:31.829Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-02T10:35:34.425Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-02T10:35:34.426Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-03T08:52:04.288Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-03T08:52:04.289Z"}
+{"correlationId":"4e63acd1-a686-404f-b9ca-29479e013989","level":"error","message":"[4e63acd1-a686-404f-b9ca-29479e013989] Error updating request: Field 'event_location' doesn't have a default value","timestamp":"2025-12-03T09:46:36.801Z"}
+{"correlationId":"3c07c497-0b93-4be2-8aa4-e4e6c8b46fc8","level":"error","message":"[3c07c497-0b93-4be2-8aa4-e4e6c8b46fc8] Error updating request: Field 'event_location' doesn't have a default value","timestamp":"2025-12-03T10:00:13.673Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-03T11:07:36.615Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-03T11:07:36.616Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-03T12:01:02.491Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-03T12:01:02.491Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-03T12:03:12.666Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-03T12:03:12.667Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-03T12:55:07.889Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-03T12:55:07.893Z"}
+{"correlationId":"acd2de25-6d5f-42ee-98e8-2698cf38e095","level":"error","message":"[acd2de25-6d5f-42ee-98e8-2698cf38e095] Error updating request: Field 'event_location' doesn't have a default value","timestamp":"2025-12-03T13:23:45.744Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-03T13:24:26.725Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-03T13:24:26.725Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-03T13:30:51.087Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-03T13:30:51.088Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-04T08:52:54.064Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-04T08:52:54.065Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-04T08:55:55.712Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-04T08:55:55.713Z"}
+{"correlationId":"1820050f-165b-43bd-8975-6cee4e9aded2","level":"error","message":"[1820050f-165b-43bd-8975-6cee4e9aded2] Error updating request: Field 'event_location' doesn't have a default value","timestamp":"2025-12-04T08:56:01.195Z"}
+{"correlationId":"444111a3-019e-4550-a78e-555d83435386","level":"error","message":"[444111a3-019e-4550-a78e-555d83435386] Error updating request: Field 'event_location' doesn't have a default value","timestamp":"2025-12-04T08:56:10.314Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-04T09:04:13.766Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-04T09:04:13.767Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-04T09:05:51.122Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-04T09:05:51.123Z"}
+{"correlationId":"79f1b1b8-5a14-421f-aa05-11424d0718f6","level":"error","message":"[79f1b1b8-5a14-421f-aa05-11424d0718f6] Error updating request: Duplicate entry '11' for key 'transfer_certificates.request_id'","timestamp":"2025-12-05T04:40:35.658Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-05T04:40:40.021Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-05T04:40:40.021Z"}
+{"correlationId":"ea22ca47-eba1-40f7-9395-39e1081b8d3f","level":"error","message":"[ea22ca47-eba1-40f7-9395-39e1081b8d3f] Error updating request: Duplicate entry '13' for key 'achievement_certificates.request_id'","timestamp":"2025-12-05T10:28:17.000Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-05T10:28:20.743Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-05T10:28:20.743Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-05T10:28:26.798Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-05T10:28:26.799Z"}
+{"correlationId":"19d59f2c-01d9-42d8-b77e-f58ef30d0edb","level":"error","message":"[19d59f2c-01d9-42d8-b77e-f58ef30d0edb] Error updating request: Duplicate entry '12' for key 'project_completion_certificates.request_id'","timestamp":"2025-12-05T10:28:37.281Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-05T10:28:37.935Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-05T10:28:37.936Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-05T10:43:15.835Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-05T10:43:15.893Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-06T04:46:06.513Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-06T04:46:06.514Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-07T05:31:17.740Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-07T05:31:17.741Z"}
+{"correlationId":"688c44d2-3831-4770-bd1b-4d3f9eb4682a","level":"error","message":"[688c44d2-3831-4770-bd1b-4d3f9eb4682a] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:31:17.757Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-07T05:32:05.208Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-07T05:32:05.209Z"}
+{"correlationId":"32d9b5cc-fa1c-4f25-9fde-ed5c133f78ac","level":"error","message":"[32d9b5cc-fa1c-4f25-9fde-ed5c133f78ac] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:32:05.214Z"}
+{"correlationId":"7abb50a1-68fb-4db1-bc3e-2d0870c11f2d","level":"error","message":"[7abb50a1-68fb-4db1-bc3e-2d0870c11f2d] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:32:28.611Z"}
+{"correlationId":"e24ab4db-14c6-4afb-8a7e-830cbce6932f","level":"error","message":"[e24ab4db-14c6-4afb-8a7e-830cbce6932f] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:33:00.263Z"}
+{"correlationId":"c7ecd4e4-c2f1-42bc-b275-0ae52e549948","level":"error","message":"[c7ecd4e4-c2f1-42bc-b275-0ae52e549948] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:33:35.528Z"}
+{"correlationId":"9c298c5e-50dd-4e7d-a2e1-e42226f8d42a","level":"error","message":"[9c298c5e-50dd-4e7d-a2e1-e42226f8d42a] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:33:59.726Z"}
+{"correlationId":"40c0400c-948f-43e6-a968-3c47c9db737d","level":"error","message":"[40c0400c-948f-43e6-a968-3c47c9db737d] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:35:23.244Z"}
+{"correlationId":"8bce9a00-57a0-4f9b-af23-358cd9c63f42","level":"error","message":"[8bce9a00-57a0-4f9b-af23-358cd9c63f42] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:46:05.952Z"}
+{"correlationId":"c388cc4e-8bba-48a4-a25c-f3273f3b6309","level":"error","message":"[c388cc4e-8bba-48a4-a25c-f3273f3b6309] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:47:10.951Z"}
+{"correlationId":"ef072b23-0839-4688-9a70-7f209e8563fc","level":"error","message":"[ef072b23-0839-4688-9a70-7f209e8563fc] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:47:29.448Z"}
+{"correlationId":"7f84d916-d373-4e16-b025-f6d0de889a9a","level":"error","message":"[7f84d916-d373-4e16-b025-f6d0de889a9a] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:48:12.537Z"}
+{"correlationId":"ddd318f2-c204-4262-9717-1dd6cef833cd","level":"error","message":"[ddd318f2-c204-4262-9717-1dd6cef833cd] Error updating request: Cannot add or update a child row: a foreign key constraint fails (`certichain`.`status_events`, CONSTRAINT `status_events_ibfk_1` FOREIGN KEY (`request_id`) REFERENCES `requests` (`id`) ON DELETE CASCADE)","timestamp":"2025-12-07T05:50:20.284Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-07T05:57:53.459Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-07T05:57:53.459Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-08T13:55:26.504Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T13:55:26.505Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-08T14:47:42.883Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T14:47:42.884Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-08T15:00:59.371Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:00:59.373Z"}
