@@ -948,6 +948,7 @@ if (require.main === module) {
 
 app.get('/',(req,res)=>{
     console.log("API running successfully")
+    res.json({status:"running successfully"})
 });
 
 // Export app for testing
