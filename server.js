@@ -945,5 +945,10 @@ if (require.main === module) {
     });
 }
 
+
+app.get('/',(req,res)=>{
+    console.log("API running successfully")
+});
+
 // Export app for testing
 module.exports = app;
