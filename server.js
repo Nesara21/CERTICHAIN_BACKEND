@@ -35,7 +35,7 @@ if (process.env.RPC_URL && process.env.PRIVATE_KEY) {
 const certichain = new Blockchain();
 
 app.use(cors());
-app.use(bodyParser.json());
+app.use(express.json());
 app.use(requestLogger); // Add logging middleware
 
 // Middleware to authenticate token
