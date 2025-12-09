@@ -935,6 +935,11 @@ app.get('/api/verify/:hash', async (req, res) => {
     }
 });
 
+app.get('/',(req,res)=>{
+    console.log("API running successfully")
+    res.json({status:"running successfully"})
+});
+
 if (require.main === module) {
     app.listen(PORT, HOST, () => {
         console.log(`Server running on http://localhost:${PORT}`);
@@ -946,10 +951,7 @@ if (require.main === module) {
 }
 
 
-app.get('/',(req,res)=>{
-    console.log("API running successfully")
-    res.json({status:"running successfully"})
-});
+
 
 // Export app for testing
 module.exports = app;
