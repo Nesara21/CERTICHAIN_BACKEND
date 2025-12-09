@@ -5428,3 +5428,383 @@
 {"correlationId":"844cb3f6-a2f2-40b4-8086-611140c5a035","level":"info","message":"[844cb3f6-a2f2-40b4-8086-611140c5a035] Response status: 304","timestamp":"2025-12-08T15:04:01.050Z"}
 {"correlationId":"66156d96-c732-4f0a-b06e-e6cb2b5b173a","level":"info","message":"[66156d96-c732-4f0a-b06e-e6cb2b5b173a] GET /api/student/requests","timestamp":"2025-12-08T15:04:01.062Z"}
 {"correlationId":"66156d96-c732-4f0a-b06e-e6cb2b5b173a","level":"info","message":"[66156d96-c732-4f0a-b06e-e6cb2b5b173a] Response status: 304","timestamp":"2025-12-08T15:04:01.064Z"}
+{"level":"info","message":"Blockchain queue initialized","timestamp":"2025-12-08T15:06:00.735Z"}
+{"correlationId":"58bb0702-9c12-4954-9af0-fb5b2332c47a","level":"info","message":"[58bb0702-9c12-4954-9af0-fb5b2332c47a] POST /api/auth/login","timestamp":"2025-12-08T15:07:08.888Z"}
+{"correlationId":"58bb0702-9c12-4954-9af0-fb5b2332c47a","level":"info","message":"[58bb0702-9c12-4954-9af0-fb5b2332c47a] Response status: 200","timestamp":"2025-12-08T15:07:09.070Z"}
+{"correlationId":"73247989-e3d7-4d10-873c-c0dbf88ade7a","level":"info","message":"[73247989-e3d7-4d10-873c-c0dbf88ade7a] GET /api/student/templates","timestamp":"2025-12-08T15:07:09.115Z"}
+{"correlationId":"8df1d8fd-bd60-4c25-bc7d-197156d3d13e","level":"info","message":"[8df1d8fd-bd60-4c25-bc7d-197156d3d13e] GET /api/student/requests","timestamp":"2025-12-08T15:07:09.133Z"}
+{"correlationId":"73247989-e3d7-4d10-873c-c0dbf88ade7a","level":"info","message":"[73247989-e3d7-4d10-873c-c0dbf88ade7a] Response status: 304","timestamp":"2025-12-08T15:07:09.144Z"}
+{"correlationId":"0fe86a34-5018-4520-bdc8-19eac78e98f0","level":"info","message":"[0fe86a34-5018-4520-bdc8-19eac78e98f0] GET /api/student/templates","timestamp":"2025-12-08T15:07:09.161Z"}
+{"correlationId":"0fe86a34-5018-4520-bdc8-19eac78e98f0","level":"info","message":"[0fe86a34-5018-4520-bdc8-19eac78e98f0] Response status: 304","timestamp":"2025-12-08T15:07:09.166Z"}
+{"correlationId":"8df1d8fd-bd60-4c25-bc7d-197156d3d13e","level":"info","message":"[8df1d8fd-bd60-4c25-bc7d-197156d3d13e] Response status: 304","timestamp":"2025-12-08T15:07:09.176Z"}
+{"correlationId":"3d262b84-7e60-4f5d-92c4-46a7e9001623","level":"info","message":"[3d262b84-7e60-4f5d-92c4-46a7e9001623] GET /api/student/requests","timestamp":"2025-12-08T15:07:09.183Z"}
+{"correlationId":"3d262b84-7e60-4f5d-92c4-46a7e9001623","level":"info","message":"[3d262b84-7e60-4f5d-92c4-46a7e9001623] Response status: 304","timestamp":"2025-12-08T15:07:09.187Z"}
+{"correlationId":"f7d96a2d-2441-4d6a-b578-a2c3faf9ce3a","level":"info","message":"[f7d96a2d-2441-4d6a-b578-a2c3faf9ce3a] POST /api/student/requests","timestamp":"2025-12-08T15:07:11.313Z"}
+{"correlationId":"f7d96a2d-2441-4d6a-b578-a2c3faf9ce3a","level":"info","message":"[f7d96a2d-2441-4d6a-b578-a2c3faf9ce3a] Response status: 200","timestamp":"2025-12-08T15:07:11.431Z"}
+{"correlationId":"63e48f51-4f36-4c84-9920-79879bab4c99","level":"info","message":"[63e48f51-4f36-4c84-9920-79879bab4c99] GET /api/student/requests","timestamp":"2025-12-08T15:07:11.439Z"}
+{"correlationId":"63e48f51-4f36-4c84-9920-79879bab4c99","level":"info","message":"[63e48f51-4f36-4c84-9920-79879bab4c99] Response status: 200","timestamp":"2025-12-08T15:07:11.445Z"}
+{"correlationId":"8c6e6501-5f15-4c4f-983b-70270e2e3c17","level":"info","message":"[8c6e6501-5f15-4c4f-983b-70270e2e3c17] POST /api/auth/login","timestamp":"2025-12-08T15:07:30.641Z"}
+{"correlationId":"8c6e6501-5f15-4c4f-983b-70270e2e3c17","level":"info","message":"[8c6e6501-5f15-4c4f-983b-70270e2e3c17] Response status: 200","timestamp":"2025-12-08T15:07:30.784Z"}
+{"correlationId":"7c17e31a-73f1-4c9b-8ef9-f7180cb50dc1","level":"info","message":"[7c17e31a-73f1-4c9b-8ef9-f7180cb50dc1] GET /api/institute/templates","timestamp":"2025-12-08T15:07:30.836Z"}
+{"correlationId":"456c28fb-db6c-411f-88bd-ab8243ba80d9","level":"info","message":"[456c28fb-db6c-411f-88bd-ab8243ba80d9] GET /api/institute/requests","timestamp":"2025-12-08T15:07:30.841Z"}
+{"correlationId":"7c17e31a-73f1-4c9b-8ef9-f7180cb50dc1","level":"info","message":"[7c17e31a-73f1-4c9b-8ef9-f7180cb50dc1] Response status: 304","timestamp":"2025-12-08T15:07:30.847Z"}
+{"correlationId":"456c28fb-db6c-411f-88bd-ab8243ba80d9","level":"info","message":"[456c28fb-db6c-411f-88bd-ab8243ba80d9] Response status: 200","timestamp":"2025-12-08T15:07:30.853Z"}
+{"correlationId":"b707550e-b086-4942-80d9-18274b196e0e","level":"info","message":"[b707550e-b086-4942-80d9-18274b196e0e] GET /api/institute/templates","timestamp":"2025-12-08T15:07:30.856Z"}
+{"correlationId":"1bfc4c5b-33be-42c2-ba71-6afa61732a14","level":"info","message":"[1bfc4c5b-33be-42c2-ba71-6afa61732a14] GET /api/institute/requests","timestamp":"2025-12-08T15:07:30.862Z"}
+{"correlationId":"b707550e-b086-4942-80d9-18274b196e0e","level":"info","message":"[b707550e-b086-4942-80d9-18274b196e0e] Response status: 304","timestamp":"2025-12-08T15:07:30.873Z"}
+{"correlationId":"1bfc4c5b-33be-42c2-ba71-6afa61732a14","level":"info","message":"[1bfc4c5b-33be-42c2-ba71-6afa61732a14] Response status: 304","timestamp":"2025-12-08T15:07:30.878Z"}
+{"correlationId":"c7090937-a68e-4aaf-8b7d-764eec0fb263","level":"info","message":"[c7090937-a68e-4aaf-8b7d-764eec0fb263] PUT /api/institute/requests/50","timestamp":"2025-12-08T15:07:36.264Z"}
+{"correlationId":"c7090937-a68e-4aaf-8b7d-764eec0fb263","level":"info","message":"[c7090937-a68e-4aaf-8b7d-764eec0fb263] Generated Hash: 94bb2098a50fd3aa6f045b416575ef6c615d6f7c8e1cf09577db786ad52b2779","timestamp":"2025-12-08T15:07:36.388Z"}
+{"level":"warn","message":"Attempt 1 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:07:36.431Z"}
+{"level":"warn","message":"Attempt 2 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:07:38.460Z"}
+{"level":"warn","message":"Attempt 3 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:07:42.488Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-08T15:07:42.489Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:07:42.489Z"}
+{"correlationId":"c7090937-a68e-4aaf-8b7d-764eec0fb263","level":"warn","message":"[c7090937-a68e-4aaf-8b7d-764eec0fb263] Blockchain publication failed (continuing without it): connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:07:42.490Z"}
+{"correlationId":"c7090937-a68e-4aaf-8b7d-764eec0fb263","level":"info","message":"[c7090937-a68e-4aaf-8b7d-764eec0fb263] Response status: 200","timestamp":"2025-12-08T15:07:54.100Z"}
+{"correlationId":"92932f4e-a726-42f7-b1e8-331fb6621cc0","level":"info","message":"[92932f4e-a726-42f7-b1e8-331fb6621cc0] GET /api/institute/requests","timestamp":"2025-12-08T15:07:54.121Z"}
+{"correlationId":"92932f4e-a726-42f7-b1e8-331fb6621cc0","level":"info","message":"[92932f4e-a726-42f7-b1e8-331fb6621cc0] Response status: 200","timestamp":"2025-12-08T15:07:54.141Z"}
+{"correlationId":"89cad95f-12db-49d3-9268-09c2ab492753","level":"info","message":"[89cad95f-12db-49d3-9268-09c2ab492753] POST /api/auth/signup","timestamp":"2025-12-08T15:13:03.687Z"}
+{"correlationId":"89cad95f-12db-49d3-9268-09c2ab492753","level":"info","message":"[89cad95f-12db-49d3-9268-09c2ab492753] Response status: 200","timestamp":"2025-12-08T15:13:03.865Z"}
+{"correlationId":"a4c5c23b-4eb2-4f08-801c-875720401e17","level":"info","message":"[a4c5c23b-4eb2-4f08-801c-875720401e17] POST /api/auth/login","timestamp":"2025-12-08T15:13:13.627Z"}
+{"correlationId":"a4c5c23b-4eb2-4f08-801c-875720401e17","level":"info","message":"[a4c5c23b-4eb2-4f08-801c-875720401e17] Response status: 200","timestamp":"2025-12-08T15:13:13.779Z"}
+{"correlationId":"9a763fc3-9c13-4377-83b9-541b21f4a7ff","level":"info","message":"[9a763fc3-9c13-4377-83b9-541b21f4a7ff] GET /api/student/templates","timestamp":"2025-12-08T15:13:13.823Z"}
+{"correlationId":"156069d9-ef61-48da-ac5d-8178d51d073f","level":"info","message":"[156069d9-ef61-48da-ac5d-8178d51d073f] GET /api/student/requests","timestamp":"2025-12-08T15:13:13.826Z"}
+{"correlationId":"9a763fc3-9c13-4377-83b9-541b21f4a7ff","level":"info","message":"[9a763fc3-9c13-4377-83b9-541b21f4a7ff] Response status: 200","timestamp":"2025-12-08T15:13:13.833Z"}
+{"correlationId":"156069d9-ef61-48da-ac5d-8178d51d073f","level":"info","message":"[156069d9-ef61-48da-ac5d-8178d51d073f] Response status: 200","timestamp":"2025-12-08T15:13:13.839Z"}
+{"correlationId":"8bc92b68-3789-4e9c-a7a2-7ab733fe700e","level":"info","message":"[8bc92b68-3789-4e9c-a7a2-7ab733fe700e] GET /api/student/templates","timestamp":"2025-12-08T15:13:13.846Z"}
+{"correlationId":"09d081e8-e494-4768-a598-4e9659fe2991","level":"info","message":"[09d081e8-e494-4768-a598-4e9659fe2991] GET /api/student/requests","timestamp":"2025-12-08T15:13:13.848Z"}
+{"correlationId":"8bc92b68-3789-4e9c-a7a2-7ab733fe700e","level":"info","message":"[8bc92b68-3789-4e9c-a7a2-7ab733fe700e] Response status: 304","timestamp":"2025-12-08T15:13:13.850Z"}
+{"correlationId":"09d081e8-e494-4768-a598-4e9659fe2991","level":"info","message":"[09d081e8-e494-4768-a598-4e9659fe2991] Response status: 304","timestamp":"2025-12-08T15:13:13.853Z"}
+{"correlationId":"05e587c7-d103-4f0e-83d7-5bfa2b78246a","level":"info","message":"[05e587c7-d103-4f0e-83d7-5bfa2b78246a] POST /api/auth/signup","timestamp":"2025-12-08T15:13:51.738Z"}
+{"correlationId":"05e587c7-d103-4f0e-83d7-5bfa2b78246a","level":"info","message":"[05e587c7-d103-4f0e-83d7-5bfa2b78246a] Response status: 200","timestamp":"2025-12-08T15:13:51.883Z"}
+{"correlationId":"3bef06cb-30f2-4bb5-870e-bc3ce428034e","level":"info","message":"[3bef06cb-30f2-4bb5-870e-bc3ce428034e] POST /api/auth/login","timestamp":"2025-12-08T15:14:01.076Z"}
+{"correlationId":"3bef06cb-30f2-4bb5-870e-bc3ce428034e","level":"info","message":"[3bef06cb-30f2-4bb5-870e-bc3ce428034e] Response status: 200","timestamp":"2025-12-08T15:14:01.226Z"}
+{"correlationId":"586248bb-835b-4b52-b57c-9ecb7edc634c","level":"info","message":"[586248bb-835b-4b52-b57c-9ecb7edc634c] GET /api/institute/templates","timestamp":"2025-12-08T15:14:01.262Z"}
+{"correlationId":"e23bccb4-64c5-405c-9d28-509ed368998a","level":"info","message":"[e23bccb4-64c5-405c-9d28-509ed368998a] GET /api/institute/requests","timestamp":"2025-12-08T15:14:01.263Z"}
+{"correlationId":"586248bb-835b-4b52-b57c-9ecb7edc634c","level":"info","message":"[586248bb-835b-4b52-b57c-9ecb7edc634c] Response status: 200","timestamp":"2025-12-08T15:14:01.267Z"}
+{"correlationId":"e23bccb4-64c5-405c-9d28-509ed368998a","level":"info","message":"[e23bccb4-64c5-405c-9d28-509ed368998a] Response status: 200","timestamp":"2025-12-08T15:14:01.279Z"}
+{"correlationId":"b625843e-fb12-420b-90d5-9195cfee5bd4","level":"info","message":"[b625843e-fb12-420b-90d5-9195cfee5bd4] GET /api/institute/templates","timestamp":"2025-12-08T15:14:01.287Z"}
+{"correlationId":"b625843e-fb12-420b-90d5-9195cfee5bd4","level":"info","message":"[b625843e-fb12-420b-90d5-9195cfee5bd4] Response status: 304","timestamp":"2025-12-08T15:14:01.292Z"}
+{"correlationId":"5d79e27b-5718-473a-ac91-600a0b4e5fe4","level":"info","message":"[5d79e27b-5718-473a-ac91-600a0b4e5fe4] GET /api/institute/requests","timestamp":"2025-12-08T15:14:01.298Z"}
+{"correlationId":"5d79e27b-5718-473a-ac91-600a0b4e5fe4","level":"info","message":"[5d79e27b-5718-473a-ac91-600a0b4e5fe4] Response status: 304","timestamp":"2025-12-08T15:14:01.300Z"}
+{"correlationId":"e2294a36-9b28-47df-bc4f-995393b35c62","level":"info","message":"[e2294a36-9b28-47df-bc4f-995393b35c62] POST /api/institute/templates","timestamp":"2025-12-08T15:14:04.871Z"}
+{"correlationId":"e2294a36-9b28-47df-bc4f-995393b35c62","level":"info","message":"[e2294a36-9b28-47df-bc4f-995393b35c62] Response status: 200","timestamp":"2025-12-08T15:14:04.893Z"}
+{"correlationId":"de2172a3-9be3-493f-9b29-4834d4864df6","level":"info","message":"[de2172a3-9be3-493f-9b29-4834d4864df6] GET /api/institute/templates","timestamp":"2025-12-08T15:14:04.918Z"}
+{"correlationId":"de2172a3-9be3-493f-9b29-4834d4864df6","level":"info","message":"[de2172a3-9be3-493f-9b29-4834d4864df6] Response status: 200","timestamp":"2025-12-08T15:14:04.930Z"}
+{"correlationId":"2073783d-fe12-41d4-b2f2-9c788530fcaf","level":"info","message":"[2073783d-fe12-41d4-b2f2-9c788530fcaf] POST /api/institute/templates","timestamp":"2025-12-08T15:14:17.735Z"}
+{"correlationId":"2073783d-fe12-41d4-b2f2-9c788530fcaf","level":"info","message":"[2073783d-fe12-41d4-b2f2-9c788530fcaf] Response status: 200","timestamp":"2025-12-08T15:14:17.748Z"}
+{"correlationId":"24831e0f-a0e5-469c-a7be-ba4223276559","level":"info","message":"[24831e0f-a0e5-469c-a7be-ba4223276559] GET /api/institute/templates","timestamp":"2025-12-08T15:14:17.779Z"}
+{"correlationId":"24831e0f-a0e5-469c-a7be-ba4223276559","level":"info","message":"[24831e0f-a0e5-469c-a7be-ba4223276559] Response status: 200","timestamp":"2025-12-08T15:14:17.783Z"}
+{"correlationId":"478acf74-6d9d-4127-b770-249cf232bb60","level":"info","message":"[478acf74-6d9d-4127-b770-249cf232bb60] POST /api/institute/templates","timestamp":"2025-12-08T15:14:36.162Z"}
+{"correlationId":"478acf74-6d9d-4127-b770-249cf232bb60","level":"info","message":"[478acf74-6d9d-4127-b770-249cf232bb60] Response status: 200","timestamp":"2025-12-08T15:14:36.174Z"}
+{"correlationId":"aecb7da4-0e5d-40ef-8740-e38c991145ef","level":"info","message":"[aecb7da4-0e5d-40ef-8740-e38c991145ef] GET /api/institute/templates","timestamp":"2025-12-08T15:14:36.202Z"}
+{"correlationId":"aecb7da4-0e5d-40ef-8740-e38c991145ef","level":"info","message":"[aecb7da4-0e5d-40ef-8740-e38c991145ef] Response status: 200","timestamp":"2025-12-08T15:14:36.212Z"}
+{"correlationId":"a58e3e9f-0a8e-428d-9505-d57cc3f4d5e7","level":"info","message":"[a58e3e9f-0a8e-428d-9505-d57cc3f4d5e7] POST /api/institute/templates","timestamp":"2025-12-08T15:14:41.944Z"}
+{"correlationId":"a58e3e9f-0a8e-428d-9505-d57cc3f4d5e7","level":"info","message":"[a58e3e9f-0a8e-428d-9505-d57cc3f4d5e7] Response status: 200","timestamp":"2025-12-08T15:14:41.958Z"}
+{"correlationId":"f83f019d-a4c6-46ca-a6db-623ba7090180","level":"info","message":"[f83f019d-a4c6-46ca-a6db-623ba7090180] GET /api/institute/templates","timestamp":"2025-12-08T15:14:41.985Z"}
+{"correlationId":"f83f019d-a4c6-46ca-a6db-623ba7090180","level":"info","message":"[f83f019d-a4c6-46ca-a6db-623ba7090180] Response status: 200","timestamp":"2025-12-08T15:14:41.996Z"}
+{"correlationId":"4bcdcf76-6189-4127-b1e5-56aedd539d49","level":"info","message":"[4bcdcf76-6189-4127-b1e5-56aedd539d49] POST /api/institute/templates","timestamp":"2025-12-08T15:14:53.030Z"}
+{"correlationId":"4bcdcf76-6189-4127-b1e5-56aedd539d49","level":"info","message":"[4bcdcf76-6189-4127-b1e5-56aedd539d49] Response status: 200","timestamp":"2025-12-08T15:14:53.044Z"}
+{"correlationId":"e79d9da7-5fa0-4aa4-9edc-60801404e98a","level":"info","message":"[e79d9da7-5fa0-4aa4-9edc-60801404e98a] GET /api/institute/templates","timestamp":"2025-12-08T15:14:53.071Z"}
+{"correlationId":"e79d9da7-5fa0-4aa4-9edc-60801404e98a","level":"info","message":"[e79d9da7-5fa0-4aa4-9edc-60801404e98a] Response status: 200","timestamp":"2025-12-08T15:14:53.081Z"}
+{"correlationId":"e90ed070-24ec-4d75-bf16-3870da1aeaa6","level":"info","message":"[e90ed070-24ec-4d75-bf16-3870da1aeaa6] POST /api/institute/templates","timestamp":"2025-12-08T15:14:59.175Z"}
+{"correlationId":"e90ed070-24ec-4d75-bf16-3870da1aeaa6","level":"info","message":"[e90ed070-24ec-4d75-bf16-3870da1aeaa6] Response status: 200","timestamp":"2025-12-08T15:14:59.187Z"}
+{"correlationId":"2156532b-9359-4e41-b026-aa6733f01686","level":"info","message":"[2156532b-9359-4e41-b026-aa6733f01686] GET /api/institute/templates","timestamp":"2025-12-08T15:14:59.217Z"}
+{"correlationId":"2156532b-9359-4e41-b026-aa6733f01686","level":"info","message":"[2156532b-9359-4e41-b026-aa6733f01686] Response status: 200","timestamp":"2025-12-08T15:14:59.231Z"}
+{"correlationId":"476afcd5-84b3-4daf-a196-24a59ba33f64","level":"info","message":"[476afcd5-84b3-4daf-a196-24a59ba33f64] POST /api/institute/templates","timestamp":"2025-12-08T15:15:04.465Z"}
+{"correlationId":"476afcd5-84b3-4daf-a196-24a59ba33f64","level":"info","message":"[476afcd5-84b3-4daf-a196-24a59ba33f64] Response status: 400","timestamp":"2025-12-08T15:15:04.470Z"}
+{"correlationId":"2a3cac00-06c5-4587-ac19-588a0e975f11","level":"info","message":"[2a3cac00-06c5-4587-ac19-588a0e975f11] POST /api/auth/login","timestamp":"2025-12-08T15:15:18.836Z"}
+{"correlationId":"2a3cac00-06c5-4587-ac19-588a0e975f11","level":"info","message":"[2a3cac00-06c5-4587-ac19-588a0e975f11] Response status: 200","timestamp":"2025-12-08T15:15:18.966Z"}
+{"correlationId":"311fc065-d677-44bb-b50f-04fe1179bb82","level":"info","message":"[311fc065-d677-44bb-b50f-04fe1179bb82] GET /api/student/templates","timestamp":"2025-12-08T15:15:19.015Z"}
+{"correlationId":"198e86cd-f4c2-4112-9830-147d2a0051e1","level":"info","message":"[198e86cd-f4c2-4112-9830-147d2a0051e1] GET /api/student/requests","timestamp":"2025-12-08T15:15:19.020Z"}
+{"correlationId":"311fc065-d677-44bb-b50f-04fe1179bb82","level":"info","message":"[311fc065-d677-44bb-b50f-04fe1179bb82] Response status: 200","timestamp":"2025-12-08T15:15:19.025Z"}
+{"correlationId":"198e86cd-f4c2-4112-9830-147d2a0051e1","level":"info","message":"[198e86cd-f4c2-4112-9830-147d2a0051e1] Response status: 304","timestamp":"2025-12-08T15:15:19.030Z"}
+{"correlationId":"10fc1f60-aacd-49a2-b89e-a5188d4bcb38","level":"info","message":"[10fc1f60-aacd-49a2-b89e-a5188d4bcb38] GET /api/student/templates","timestamp":"2025-12-08T15:15:19.032Z"}
+{"correlationId":"10fc1f60-aacd-49a2-b89e-a5188d4bcb38","level":"info","message":"[10fc1f60-aacd-49a2-b89e-a5188d4bcb38] Response status: 304","timestamp":"2025-12-08T15:15:19.040Z"}
+{"correlationId":"65486a01-bea7-4923-92d2-d7054bce5dff","level":"info","message":"[65486a01-bea7-4923-92d2-d7054bce5dff] GET /api/student/requests","timestamp":"2025-12-08T15:15:19.042Z"}
+{"correlationId":"65486a01-bea7-4923-92d2-d7054bce5dff","level":"info","message":"[65486a01-bea7-4923-92d2-d7054bce5dff] Response status: 304","timestamp":"2025-12-08T15:15:19.046Z"}
+{"correlationId":"4e98e7a7-3be8-4bc4-99be-e59d59bc44e8","level":"info","message":"[4e98e7a7-3be8-4bc4-99be-e59d59bc44e8] POST /api/student/requests","timestamp":"2025-12-08T15:15:21.210Z"}
+{"correlationId":"4e98e7a7-3be8-4bc4-99be-e59d59bc44e8","level":"info","message":"[4e98e7a7-3be8-4bc4-99be-e59d59bc44e8] Response status: 200","timestamp":"2025-12-08T15:15:21.233Z"}
+{"correlationId":"dde21121-e514-4e85-b137-36c067e5a522","level":"info","message":"[dde21121-e514-4e85-b137-36c067e5a522] GET /api/student/requests","timestamp":"2025-12-08T15:15:21.275Z"}
+{"correlationId":"dde21121-e514-4e85-b137-36c067e5a522","level":"info","message":"[dde21121-e514-4e85-b137-36c067e5a522] Response status: 200","timestamp":"2025-12-08T15:15:21.282Z"}
+{"correlationId":"e811d10b-0bc6-4721-b064-ae14553e94ca","level":"info","message":"[e811d10b-0bc6-4721-b064-ae14553e94ca] POST /api/auth/login","timestamp":"2025-12-08T15:15:27.467Z"}
+{"correlationId":"e811d10b-0bc6-4721-b064-ae14553e94ca","level":"info","message":"[e811d10b-0bc6-4721-b064-ae14553e94ca] Response status: 200","timestamp":"2025-12-08T15:15:27.625Z"}
+{"correlationId":"d39a280c-0e6a-4be1-bd89-2884c9f83c76","level":"info","message":"[d39a280c-0e6a-4be1-bd89-2884c9f83c76] POST /api/auth/login","timestamp":"2025-12-08T15:15:35.928Z"}
+{"correlationId":"d39a280c-0e6a-4be1-bd89-2884c9f83c76","level":"info","message":"[d39a280c-0e6a-4be1-bd89-2884c9f83c76] Response status: 200","timestamp":"2025-12-08T15:15:36.073Z"}
+{"correlationId":"d7ae6b8a-227f-40bc-a8c9-8078ef5a6114","level":"info","message":"[d7ae6b8a-227f-40bc-a8c9-8078ef5a6114] GET /api/institute/templates","timestamp":"2025-12-08T15:15:36.109Z"}
+{"correlationId":"065aaf12-5908-4e13-93e4-8d8bfbed030c","level":"info","message":"[065aaf12-5908-4e13-93e4-8d8bfbed030c] GET /api/institute/requests","timestamp":"2025-12-08T15:15:36.112Z"}
+{"correlationId":"d7ae6b8a-227f-40bc-a8c9-8078ef5a6114","level":"info","message":"[d7ae6b8a-227f-40bc-a8c9-8078ef5a6114] Response status: 304","timestamp":"2025-12-08T15:15:36.117Z"}
+{"correlationId":"065aaf12-5908-4e13-93e4-8d8bfbed030c","level":"info","message":"[065aaf12-5908-4e13-93e4-8d8bfbed030c] Response status: 200","timestamp":"2025-12-08T15:15:36.125Z"}
+{"correlationId":"e3ee9bce-44d6-4aef-ae89-f4bad3245b1f","level":"info","message":"[e3ee9bce-44d6-4aef-ae89-f4bad3245b1f] GET /api/institute/templates","timestamp":"2025-12-08T15:15:36.140Z"}
+{"correlationId":"7d4a7c48-4b78-47b7-be70-41d895e0a96a","level":"info","message":"[7d4a7c48-4b78-47b7-be70-41d895e0a96a] GET /api/institute/requests","timestamp":"2025-12-08T15:15:36.145Z"}
+{"correlationId":"e3ee9bce-44d6-4aef-ae89-f4bad3245b1f","level":"info","message":"[e3ee9bce-44d6-4aef-ae89-f4bad3245b1f] Response status: 304","timestamp":"2025-12-08T15:15:36.147Z"}
+{"correlationId":"7d4a7c48-4b78-47b7-be70-41d895e0a96a","level":"info","message":"[7d4a7c48-4b78-47b7-be70-41d895e0a96a] Response status: 304","timestamp":"2025-12-08T15:15:36.151Z"}
+{"correlationId":"9a592a61-b721-466f-b009-2ba4abeb2468","level":"info","message":"[9a592a61-b721-466f-b009-2ba4abeb2468] PUT /api/institute/requests/51","timestamp":"2025-12-08T15:15:39.196Z"}
+{"correlationId":"9a592a61-b721-466f-b009-2ba4abeb2468","level":"info","message":"[9a592a61-b721-466f-b009-2ba4abeb2468] Response status: 200","timestamp":"2025-12-08T15:15:39.220Z"}
+{"correlationId":"d40c4f99-bbf9-48ac-8943-a5dfe94ab2ff","level":"info","message":"[d40c4f99-bbf9-48ac-8943-a5dfe94ab2ff] GET /api/institute/requests","timestamp":"2025-12-08T15:15:39.250Z"}
+{"correlationId":"d40c4f99-bbf9-48ac-8943-a5dfe94ab2ff","level":"info","message":"[d40c4f99-bbf9-48ac-8943-a5dfe94ab2ff] Response status: 200","timestamp":"2025-12-08T15:15:39.255Z"}
+{"correlationId":"face9b19-c1f7-4c57-bb2d-0bef955d59f6","level":"info","message":"[face9b19-c1f7-4c57-bb2d-0bef955d59f6] POST /api/auth/login","timestamp":"2025-12-08T15:15:50.596Z"}
+{"correlationId":"face9b19-c1f7-4c57-bb2d-0bef955d59f6","level":"info","message":"[face9b19-c1f7-4c57-bb2d-0bef955d59f6] Response status: 200","timestamp":"2025-12-08T15:15:50.758Z"}
+{"correlationId":"78fe8958-b13e-4b44-be01-494a6d93fe37","level":"info","message":"[78fe8958-b13e-4b44-be01-494a6d93fe37] GET /api/student/templates","timestamp":"2025-12-08T15:15:50.793Z"}
+{"correlationId":"78fe8958-b13e-4b44-be01-494a6d93fe37","level":"info","message":"[78fe8958-b13e-4b44-be01-494a6d93fe37] Response status: 304","timestamp":"2025-12-08T15:15:50.796Z"}
+{"correlationId":"7d03cef6-46b2-48dd-a1a2-df2f817d4f34","level":"info","message":"[7d03cef6-46b2-48dd-a1a2-df2f817d4f34] GET /api/student/requests","timestamp":"2025-12-08T15:15:50.810Z"}
+{"correlationId":"7d03cef6-46b2-48dd-a1a2-df2f817d4f34","level":"info","message":"[7d03cef6-46b2-48dd-a1a2-df2f817d4f34] Response status: 200","timestamp":"2025-12-08T15:15:50.816Z"}
+{"correlationId":"052b1e0a-6dca-4f85-98af-cedbfeb7e91f","level":"info","message":"[052b1e0a-6dca-4f85-98af-cedbfeb7e91f] GET /api/student/templates","timestamp":"2025-12-08T15:15:50.829Z"}
+{"correlationId":"052b1e0a-6dca-4f85-98af-cedbfeb7e91f","level":"info","message":"[052b1e0a-6dca-4f85-98af-cedbfeb7e91f] Response status: 304","timestamp":"2025-12-08T15:15:50.833Z"}
+{"correlationId":"fabbca4c-7316-42fc-a8fb-455498aeb199","level":"info","message":"[fabbca4c-7316-42fc-a8fb-455498aeb199] GET /api/student/requests","timestamp":"2025-12-08T15:15:50.841Z"}
+{"correlationId":"fabbca4c-7316-42fc-a8fb-455498aeb199","level":"info","message":"[fabbca4c-7316-42fc-a8fb-455498aeb199] Response status: 304","timestamp":"2025-12-08T15:15:50.843Z"}
+{"correlationId":"20d64779-96c7-439d-babf-4473e51ab746","level":"info","message":"[20d64779-96c7-439d-babf-4473e51ab746] POST /api/student/requests","timestamp":"2025-12-08T15:15:52.900Z"}
+{"correlationId":"20d64779-96c7-439d-babf-4473e51ab746","level":"info","message":"[20d64779-96c7-439d-babf-4473e51ab746] Response status: 200","timestamp":"2025-12-08T15:15:52.918Z"}
+{"correlationId":"6e290b82-b189-4a24-b50e-57daddcac291","level":"info","message":"[6e290b82-b189-4a24-b50e-57daddcac291] GET /api/student/requests","timestamp":"2025-12-08T15:15:52.949Z"}
+{"correlationId":"6e290b82-b189-4a24-b50e-57daddcac291","level":"info","message":"[6e290b82-b189-4a24-b50e-57daddcac291] Response status: 200","timestamp":"2025-12-08T15:15:52.953Z"}
+{"correlationId":"b6950928-6999-4f76-b77e-6c2c3446177b","level":"info","message":"[b6950928-6999-4f76-b77e-6c2c3446177b] POST /api/auth/login","timestamp":"2025-12-08T15:16:01.918Z"}
+{"correlationId":"b6950928-6999-4f76-b77e-6c2c3446177b","level":"info","message":"[b6950928-6999-4f76-b77e-6c2c3446177b] Response status: 200","timestamp":"2025-12-08T15:16:02.077Z"}
+{"correlationId":"b17c2451-f90c-47e4-b0cc-93a8e4067f2a","level":"info","message":"[b17c2451-f90c-47e4-b0cc-93a8e4067f2a] GET /api/institute/templates","timestamp":"2025-12-08T15:16:02.107Z"}
+{"correlationId":"b17c2451-f90c-47e4-b0cc-93a8e4067f2a","level":"info","message":"[b17c2451-f90c-47e4-b0cc-93a8e4067f2a] Response status: 304","timestamp":"2025-12-08T15:16:02.109Z"}
+{"correlationId":"8f1d4625-bd2b-4598-9ca2-24ab8869edbd","level":"info","message":"[8f1d4625-bd2b-4598-9ca2-24ab8869edbd] GET /api/institute/requests","timestamp":"2025-12-08T15:16:02.115Z"}
+{"correlationId":"8f1d4625-bd2b-4598-9ca2-24ab8869edbd","level":"info","message":"[8f1d4625-bd2b-4598-9ca2-24ab8869edbd] Response status: 200","timestamp":"2025-12-08T15:16:02.131Z"}
+{"correlationId":"859cf2fd-7d57-4412-af94-1c81f250c54e","level":"info","message":"[859cf2fd-7d57-4412-af94-1c81f250c54e] GET /api/institute/templates","timestamp":"2025-12-08T15:16:02.132Z"}
+{"correlationId":"859cf2fd-7d57-4412-af94-1c81f250c54e","level":"info","message":"[859cf2fd-7d57-4412-af94-1c81f250c54e] Response status: 304","timestamp":"2025-12-08T15:16:02.134Z"}
+{"correlationId":"43d9fc1c-d9f4-495a-a922-a1605503a7ab","level":"info","message":"[43d9fc1c-d9f4-495a-a922-a1605503a7ab] GET /api/institute/requests","timestamp":"2025-12-08T15:16:02.145Z"}
+{"correlationId":"43d9fc1c-d9f4-495a-a922-a1605503a7ab","level":"info","message":"[43d9fc1c-d9f4-495a-a922-a1605503a7ab] Response status: 304","timestamp":"2025-12-08T15:16:02.148Z"}
+{"correlationId":"1a8ed64d-49bd-46d1-a5d8-b58895746b7d","level":"info","message":"[1a8ed64d-49bd-46d1-a5d8-b58895746b7d] PUT /api/institute/requests/52","timestamp":"2025-12-08T15:16:05.002Z"}
+{"correlationId":"1a8ed64d-49bd-46d1-a5d8-b58895746b7d","level":"info","message":"[1a8ed64d-49bd-46d1-a5d8-b58895746b7d] Generated Hash: 65cebec5af867ea92d753ea2340bb96c8b1084262c2b5d946397ab5149ad917c","timestamp":"2025-12-08T15:16:05.071Z"}
+{"level":"warn","message":"Attempt 1 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:16:05.099Z"}
+{"level":"warn","message":"Attempt 2 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:16:07.130Z"}
+{"level":"warn","message":"Attempt 3 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:16:11.160Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-08T15:16:11.160Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:16:11.161Z"}
+{"correlationId":"1a8ed64d-49bd-46d1-a5d8-b58895746b7d","level":"warn","message":"[1a8ed64d-49bd-46d1-a5d8-b58895746b7d] Blockchain publication failed (continuing without it): connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-08T15:16:11.162Z"}
+{"correlationId":"1a8ed64d-49bd-46d1-a5d8-b58895746b7d","level":"info","message":"[1a8ed64d-49bd-46d1-a5d8-b58895746b7d] Response status: 200","timestamp":"2025-12-08T15:16:24.157Z"}
+{"correlationId":"fd2644ae-4836-46e7-8eca-577757204395","level":"info","message":"[fd2644ae-4836-46e7-8eca-577757204395] GET /api/institute/requests","timestamp":"2025-12-08T15:16:24.191Z"}
+{"correlationId":"fd2644ae-4836-46e7-8eca-577757204395","level":"info","message":"[fd2644ae-4836-46e7-8eca-577757204395] Response status: 200","timestamp":"2025-12-08T15:16:24.211Z"}
+{"correlationId":"6c14fef1-6525-4734-b0ad-8be69b33a838","level":"info","message":"[6c14fef1-6525-4734-b0ad-8be69b33a838] POST /api/auth/login","timestamp":"2025-12-08T15:16:34.087Z"}
+{"correlationId":"6c14fef1-6525-4734-b0ad-8be69b33a838","level":"info","message":"[6c14fef1-6525-4734-b0ad-8be69b33a838] Response status: 200","timestamp":"2025-12-08T15:16:34.250Z"}
+{"correlationId":"cd96a53f-7746-48bd-9ca7-43cda74185db","level":"info","message":"[cd96a53f-7746-48bd-9ca7-43cda74185db] GET /api/student/templates","timestamp":"2025-12-08T15:16:34.292Z"}
+{"correlationId":"cd96a53f-7746-48bd-9ca7-43cda74185db","level":"info","message":"[cd96a53f-7746-48bd-9ca7-43cda74185db] Response status: 304","timestamp":"2025-12-08T15:16:34.295Z"}
+{"correlationId":"5277b5cc-3c64-42f7-a5fb-e6d6eec31b10","level":"info","message":"[5277b5cc-3c64-42f7-a5fb-e6d6eec31b10] GET /api/student/requests","timestamp":"2025-12-08T15:16:34.302Z"}
+{"correlationId":"5277b5cc-3c64-42f7-a5fb-e6d6eec31b10","level":"info","message":"[5277b5cc-3c64-42f7-a5fb-e6d6eec31b10] Response status: 200","timestamp":"2025-12-08T15:16:34.308Z"}
+{"correlationId":"f9355407-e77d-42a7-97fa-7f02ef8113c0","level":"info","message":"[f9355407-e77d-42a7-97fa-7f02ef8113c0] GET /api/student/templates","timestamp":"2025-12-08T15:16:34.318Z"}
+{"correlationId":"f9355407-e77d-42a7-97fa-7f02ef8113c0","level":"info","message":"[f9355407-e77d-42a7-97fa-7f02ef8113c0] Response status: 304","timestamp":"2025-12-08T15:16:34.319Z"}
+{"correlationId":"5757db78-72b1-4820-ba18-118462a8aae7","level":"info","message":"[5757db78-72b1-4820-ba18-118462a8aae7] GET /api/student/requests","timestamp":"2025-12-08T15:16:34.324Z"}
+{"correlationId":"5757db78-72b1-4820-ba18-118462a8aae7","level":"info","message":"[5757db78-72b1-4820-ba18-118462a8aae7] Response status: 304","timestamp":"2025-12-08T15:16:34.327Z"}
+{"correlationId":"86b4762c-4a55-414d-b9de-683ae4b66e97","level":"info","message":"[86b4762c-4a55-414d-b9de-683ae4b66e97] GET /api/student/certificate/52","timestamp":"2025-12-08T15:16:37.493Z"}
+{"correlationId":"86b4762c-4a55-414d-b9de-683ae4b66e97","level":"info","message":"[86b4762c-4a55-414d-b9de-683ae4b66e97] Response status: 200","timestamp":"2025-12-08T15:16:37.518Z"}
+{"correlationId":"d215c0b3-5685-4136-8048-592c5cf37e79","level":"info","message":"[d215c0b3-5685-4136-8048-592c5cf37e79] GET /api/qrcode/65cebec5af867ea92d753ea2340bb96c8b1084262c2b5d946397ab5149ad917c","timestamp":"2025-12-08T15:16:37.532Z"}
+{"correlationId":"d215c0b3-5685-4136-8048-592c5cf37e79","level":"info","message":"[d215c0b3-5685-4136-8048-592c5cf37e79] Response status: 200","timestamp":"2025-12-08T15:16:37.639Z"}
+{"correlationId":"bdebd771-205d-4fe0-bc70-a7479f50c38d","level":"info","message":"[bdebd771-205d-4fe0-bc70-a7479f50c38d] POST /api/auth/login","timestamp":"2025-12-08T15:17:07.229Z"}
+{"correlationId":"bdebd771-205d-4fe0-bc70-a7479f50c38d","level":"info","message":"[bdebd771-205d-4fe0-bc70-a7479f50c38d] Response status: 200","timestamp":"2025-12-08T15:17:07.354Z"}
+{"correlationId":"d0368e85-71c0-4e1c-8130-5a84f4471233","level":"info","message":"[d0368e85-71c0-4e1c-8130-5a84f4471233] GET /api/student/templates","timestamp":"2025-12-08T15:17:07.398Z"}
+{"correlationId":"d0368e85-71c0-4e1c-8130-5a84f4471233","level":"info","message":"[d0368e85-71c0-4e1c-8130-5a84f4471233] Response status: 304","timestamp":"2025-12-08T15:17:07.403Z"}
+{"correlationId":"5d3c8f42-dc6a-457b-bda6-63ad7510d9ad","level":"info","message":"[5d3c8f42-dc6a-457b-bda6-63ad7510d9ad] GET /api/student/requests","timestamp":"2025-12-08T15:17:07.410Z"}
+{"correlationId":"5d3c8f42-dc6a-457b-bda6-63ad7510d9ad","level":"info","message":"[5d3c8f42-dc6a-457b-bda6-63ad7510d9ad] Response status: 304","timestamp":"2025-12-08T15:17:07.412Z"}
+{"correlationId":"f5e0951b-b07b-4f63-af53-7abb162464ff","level":"info","message":"[f5e0951b-b07b-4f63-af53-7abb162464ff] GET /api/student/templates","timestamp":"2025-12-08T15:17:07.427Z"}
+{"correlationId":"f5e0951b-b07b-4f63-af53-7abb162464ff","level":"info","message":"[f5e0951b-b07b-4f63-af53-7abb162464ff] Response status: 304","timestamp":"2025-12-08T15:17:07.430Z"}
+{"correlationId":"a0a3da4b-cb3c-4aae-bfe6-1f6cc87ecfff","level":"info","message":"[a0a3da4b-cb3c-4aae-bfe6-1f6cc87ecfff] GET /api/student/requests","timestamp":"2025-12-08T15:17:07.432Z"}
+{"correlationId":"a0a3da4b-cb3c-4aae-bfe6-1f6cc87ecfff","level":"info","message":"[a0a3da4b-cb3c-4aae-bfe6-1f6cc87ecfff] Response status: 304","timestamp":"2025-12-08T15:17:07.434Z"}
+{"correlationId":"7fbbd089-6e09-4b71-b8bd-d8ea336f29ba","level":"info","message":"[7fbbd089-6e09-4b71-b8bd-d8ea336f29ba] POST /api/student/requests","timestamp":"2025-12-08T15:17:09.862Z"}
+{"correlationId":"7fbbd089-6e09-4b71-b8bd-d8ea336f29ba","level":"info","message":"[7fbbd089-6e09-4b71-b8bd-d8ea336f29ba] Response status: 200","timestamp":"2025-12-08T15:17:09.888Z"}
+{"correlationId":"f4de6229-084d-4d71-99ef-d5473d19cdce","level":"info","message":"[f4de6229-084d-4d71-99ef-d5473d19cdce] GET /api/student/requests","timestamp":"2025-12-08T15:17:09.910Z"}
+{"correlationId":"f4de6229-084d-4d71-99ef-d5473d19cdce","level":"info","message":"[f4de6229-084d-4d71-99ef-d5473d19cdce] Response status: 200","timestamp":"2025-12-08T15:17:09.916Z"}
+{"correlationId":"ae2d309b-0d51-42d0-8dd5-edb311759543","level":"info","message":"[ae2d309b-0d51-42d0-8dd5-edb311759543] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-08T15:17:17.792Z"}
+{"correlationId":"ae2d309b-0d51-42d0-8dd5-edb311759543","level":"info","message":"[ae2d309b-0d51-42d0-8dd5-edb311759543] Response status: 200","timestamp":"2025-12-08T15:17:17.824Z"}
+{"correlationId":"7ca2d00a-7abe-4c24-9140-ccf3f787ddc7","level":"info","message":"[7ca2d00a-7abe-4c24-9140-ccf3f787ddc7] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-08T15:17:17.831Z"}
+{"correlationId":"7ca2d00a-7abe-4c24-9140-ccf3f787ddc7","level":"info","message":"[7ca2d00a-7abe-4c24-9140-ccf3f787ddc7] Response status: 304","timestamp":"2025-12-08T15:17:17.837Z"}
+{"correlationId":"e63b9c2b-3eb7-4695-aaf0-cf6b5c8a3175","level":"info","message":"[e63b9c2b-3eb7-4695-aaf0-cf6b5c8a3175] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-08T15:17:18.270Z"}
+{"correlationId":"e63b9c2b-3eb7-4695-aaf0-cf6b5c8a3175","level":"info","message":"[e63b9c2b-3eb7-4695-aaf0-cf6b5c8a3175] Response status: 304","timestamp":"2025-12-08T15:17:18.279Z"}
+{"correlationId":"308e7fcb-b984-468a-987a-1a4d5f4debdf","level":"info","message":"[308e7fcb-b984-468a-987a-1a4d5f4debdf] GET /api/students/75/certificates?page=1&limit=10&type=Bonafide+Certificate&status=All&search=","timestamp":"2025-12-08T15:17:33.704Z"}
+{"correlationId":"308e7fcb-b984-468a-987a-1a4d5f4debdf","level":"info","message":"[308e7fcb-b984-468a-987a-1a4d5f4debdf] Response status: 200","timestamp":"2025-12-08T15:17:33.715Z"}
+{"correlationId":"23145a7a-d2d7-4dc9-b933-6e69952bf57a","level":"info","message":"[23145a7a-d2d7-4dc9-b933-6e69952bf57a] GET /api/student/templates","timestamp":"2025-12-08T15:17:49.936Z"}
+{"correlationId":"23145a7a-d2d7-4dc9-b933-6e69952bf57a","level":"info","message":"[23145a7a-d2d7-4dc9-b933-6e69952bf57a] Response status: 304","timestamp":"2025-12-08T15:17:49.941Z"}
+{"correlationId":"9436cf0b-6004-421e-bbd9-f09f5abe4372","level":"info","message":"[9436cf0b-6004-421e-bbd9-f09f5abe4372] GET /api/student/requests","timestamp":"2025-12-08T15:17:49.950Z"}
+{"correlationId":"9436cf0b-6004-421e-bbd9-f09f5abe4372","level":"info","message":"[9436cf0b-6004-421e-bbd9-f09f5abe4372] Response status: 304","timestamp":"2025-12-08T15:17:49.964Z"}
+{"correlationId":"6e7800dc-155c-42b3-9d4c-8de40489e6d9","level":"info","message":"[6e7800dc-155c-42b3-9d4c-8de40489e6d9] GET /api/student/templates","timestamp":"2025-12-08T15:17:49.994Z"}
+{"correlationId":"6e7800dc-155c-42b3-9d4c-8de40489e6d9","level":"info","message":"[6e7800dc-155c-42b3-9d4c-8de40489e6d9] Response status: 304","timestamp":"2025-12-08T15:17:49.996Z"}
+{"correlationId":"87df5de9-ed0e-47fb-9770-8f509f05ed2e","level":"info","message":"[87df5de9-ed0e-47fb-9770-8f509f05ed2e] GET /api/student/requests","timestamp":"2025-12-08T15:17:49.999Z"}
+{"correlationId":"87df5de9-ed0e-47fb-9770-8f509f05ed2e","level":"info","message":"[87df5de9-ed0e-47fb-9770-8f509f05ed2e] Response status: 304","timestamp":"2025-12-08T15:17:50.004Z"}
+{"level":"info","message":"Blockchain queue initialized","timestamp":"2025-12-09T04:34:32.229Z"}
+{"correlationId":"4a3d9c65-0645-4233-8034-4a8ae3fa56d4","level":"info","message":"[4a3d9c65-0645-4233-8034-4a8ae3fa56d4] POST /api/auth/login","timestamp":"2025-12-09T04:38:16.226Z"}
+{"correlationId":"4a3d9c65-0645-4233-8034-4a8ae3fa56d4","level":"info","message":"[4a3d9c65-0645-4233-8034-4a8ae3fa56d4] Response status: 200","timestamp":"2025-12-09T04:38:16.728Z"}
+{"correlationId":"72d4d97e-3174-4120-bf22-aacb2d312956","level":"info","message":"[72d4d97e-3174-4120-bf22-aacb2d312956] GET /api/student/templates","timestamp":"2025-12-09T04:38:16.842Z"}
+{"correlationId":"c28a6fbc-3f9f-4329-9a9a-e3244ea40b2c","level":"info","message":"[c28a6fbc-3f9f-4329-9a9a-e3244ea40b2c] GET /api/student/requests","timestamp":"2025-12-09T04:38:16.994Z"}
+{"correlationId":"72d4d97e-3174-4120-bf22-aacb2d312956","level":"info","message":"[72d4d97e-3174-4120-bf22-aacb2d312956] Response status: 304","timestamp":"2025-12-09T04:38:17.187Z"}
+{"correlationId":"e79b718d-fdc6-41dd-9301-6beb1f16a680","level":"info","message":"[e79b718d-fdc6-41dd-9301-6beb1f16a680] GET /api/student/templates","timestamp":"2025-12-09T04:38:17.227Z"}
+{"correlationId":"e79b718d-fdc6-41dd-9301-6beb1f16a680","level":"info","message":"[e79b718d-fdc6-41dd-9301-6beb1f16a680] Response status: 304","timestamp":"2025-12-09T04:38:17.266Z"}
+{"correlationId":"c28a6fbc-3f9f-4329-9a9a-e3244ea40b2c","level":"info","message":"[c28a6fbc-3f9f-4329-9a9a-e3244ea40b2c] Response status: 304","timestamp":"2025-12-09T04:38:17.364Z"}
+{"correlationId":"c01c86ec-7499-470b-892c-68bb18e37f46","level":"info","message":"[c01c86ec-7499-470b-892c-68bb18e37f46] GET /api/student/requests","timestamp":"2025-12-09T04:38:17.395Z"}
+{"correlationId":"c01c86ec-7499-470b-892c-68bb18e37f46","level":"info","message":"[c01c86ec-7499-470b-892c-68bb18e37f46] Response status: 304","timestamp":"2025-12-09T04:38:17.413Z"}
+{"correlationId":"68b7e19b-1de1-4135-a370-513923cb0755","level":"info","message":"[68b7e19b-1de1-4135-a370-513923cb0755] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T04:38:26.462Z"}
+{"correlationId":"68b7e19b-1de1-4135-a370-513923cb0755","level":"info","message":"[68b7e19b-1de1-4135-a370-513923cb0755] Response status: 304","timestamp":"2025-12-09T04:38:26.537Z"}
+{"correlationId":"10f45860-45ba-4e00-b82f-069dfba2cd82","level":"info","message":"[10f45860-45ba-4e00-b82f-069dfba2cd82] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T04:38:26.579Z"}
+{"correlationId":"10f45860-45ba-4e00-b82f-069dfba2cd82","level":"info","message":"[10f45860-45ba-4e00-b82f-069dfba2cd82] Response status: 304","timestamp":"2025-12-09T04:38:26.592Z"}
+{"correlationId":"5018f17d-a345-401c-97fc-11d12fdf5976","level":"info","message":"[5018f17d-a345-401c-97fc-11d12fdf5976] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T04:38:26.850Z"}
+{"correlationId":"5018f17d-a345-401c-97fc-11d12fdf5976","level":"info","message":"[5018f17d-a345-401c-97fc-11d12fdf5976] Response status: 304","timestamp":"2025-12-09T04:38:26.879Z"}
+{"level":"info","message":"Blockchain queue initialized","timestamp":"2025-12-09T07:17:10.351Z"}
+{"level":"info","message":"Blockchain queue initialized","timestamp":"2025-12-09T08:29:35.195Z"}
+{"correlationId":"b3eed7fe-0f8b-4c30-bc8c-4da5e2e22372","level":"info","message":"[b3eed7fe-0f8b-4c30-bc8c-4da5e2e22372] GET /api/student/templates","timestamp":"2025-12-09T08:29:58.943Z"}
+{"correlationId":"3adb6bb4-2ee5-442f-ad54-8a8c84732007","level":"info","message":"[3adb6bb4-2ee5-442f-ad54-8a8c84732007] GET /api/student/requests","timestamp":"2025-12-09T08:29:58.964Z"}
+{"correlationId":"b3eed7fe-0f8b-4c30-bc8c-4da5e2e22372","level":"info","message":"[b3eed7fe-0f8b-4c30-bc8c-4da5e2e22372] Response status: 304","timestamp":"2025-12-09T08:29:59.015Z"}
+{"correlationId":"3adb6bb4-2ee5-442f-ad54-8a8c84732007","level":"info","message":"[3adb6bb4-2ee5-442f-ad54-8a8c84732007] Response status: 304","timestamp":"2025-12-09T08:29:59.035Z"}
+{"correlationId":"a4fe6b57-21aa-4a81-bf48-dc6129251855","level":"info","message":"[a4fe6b57-21aa-4a81-bf48-dc6129251855] GET /api/student/templates","timestamp":"2025-12-09T08:29:59.050Z"}
+{"correlationId":"2550be2e-cdff-48ca-a03d-2cc9bbdd396b","level":"info","message":"[2550be2e-cdff-48ca-a03d-2cc9bbdd396b] GET /api/student/requests","timestamp":"2025-12-09T08:29:59.055Z"}
+{"correlationId":"a4fe6b57-21aa-4a81-bf48-dc6129251855","level":"info","message":"[a4fe6b57-21aa-4a81-bf48-dc6129251855] Response status: 304","timestamp":"2025-12-09T08:29:59.062Z"}
+{"correlationId":"2550be2e-cdff-48ca-a03d-2cc9bbdd396b","level":"info","message":"[2550be2e-cdff-48ca-a03d-2cc9bbdd396b] Response status: 304","timestamp":"2025-12-09T08:29:59.068Z"}
+{"correlationId":"74931657-1314-4593-9f86-81d5492251fd","level":"info","message":"[74931657-1314-4593-9f86-81d5492251fd] POST /api/auth/login","timestamp":"2025-12-09T08:30:39.065Z"}
+{"correlationId":"74931657-1314-4593-9f86-81d5492251fd","level":"info","message":"[74931657-1314-4593-9f86-81d5492251fd] Response status: 200","timestamp":"2025-12-09T08:30:39.256Z"}
+{"correlationId":"ae2215f8-8f11-454f-bde4-d6a1dfa27abf","level":"info","message":"[ae2215f8-8f11-454f-bde4-d6a1dfa27abf] GET /api/student/templates","timestamp":"2025-12-09T08:30:39.299Z"}
+{"correlationId":"ae2215f8-8f11-454f-bde4-d6a1dfa27abf","level":"info","message":"[ae2215f8-8f11-454f-bde4-d6a1dfa27abf] Response status: 304","timestamp":"2025-12-09T08:30:39.315Z"}
+{"correlationId":"c8936606-fc8f-453d-aa08-5a32af65e849","level":"info","message":"[c8936606-fc8f-453d-aa08-5a32af65e849] GET /api/student/requests","timestamp":"2025-12-09T08:30:39.320Z"}
+{"correlationId":"c8936606-fc8f-453d-aa08-5a32af65e849","level":"info","message":"[c8936606-fc8f-453d-aa08-5a32af65e849] Response status: 304","timestamp":"2025-12-09T08:30:39.323Z"}
+{"correlationId":"8a885317-9033-4a15-872d-042d86cb3104","level":"info","message":"[8a885317-9033-4a15-872d-042d86cb3104] GET /api/student/templates","timestamp":"2025-12-09T08:30:39.339Z"}
+{"correlationId":"8a885317-9033-4a15-872d-042d86cb3104","level":"info","message":"[8a885317-9033-4a15-872d-042d86cb3104] Response status: 304","timestamp":"2025-12-09T08:30:39.346Z"}
+{"correlationId":"3206672a-2d5b-4cbb-88d2-38073dfbacd1","level":"info","message":"[3206672a-2d5b-4cbb-88d2-38073dfbacd1] GET /api/student/requests","timestamp":"2025-12-09T08:30:39.353Z"}
+{"correlationId":"3206672a-2d5b-4cbb-88d2-38073dfbacd1","level":"info","message":"[3206672a-2d5b-4cbb-88d2-38073dfbacd1] Response status: 304","timestamp":"2025-12-09T08:30:39.363Z"}
+{"correlationId":"c9bfc18d-5b1d-48d3-95b2-f5713d74b74e","level":"info","message":"[c9bfc18d-5b1d-48d3-95b2-f5713d74b74e] POST /api/student/requests","timestamp":"2025-12-09T08:30:59.471Z"}
+{"correlationId":"c9bfc18d-5b1d-48d3-95b2-f5713d74b74e","level":"info","message":"[c9bfc18d-5b1d-48d3-95b2-f5713d74b74e] Response status: 200","timestamp":"2025-12-09T08:30:59.598Z"}
+{"correlationId":"734ff14c-22a1-4e16-b99a-0fb76f05ff13","level":"info","message":"[734ff14c-22a1-4e16-b99a-0fb76f05ff13] GET /api/student/requests","timestamp":"2025-12-09T08:30:59.606Z"}
+{"correlationId":"734ff14c-22a1-4e16-b99a-0fb76f05ff13","level":"info","message":"[734ff14c-22a1-4e16-b99a-0fb76f05ff13] Response status: 200","timestamp":"2025-12-09T08:30:59.612Z"}
+{"correlationId":"fcc844db-cfb9-4613-999b-6a3685198011","level":"info","message":"[fcc844db-cfb9-4613-999b-6a3685198011] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:31:04.370Z"}
+{"correlationId":"fcc844db-cfb9-4613-999b-6a3685198011","level":"info","message":"[fcc844db-cfb9-4613-999b-6a3685198011] Response status: 200","timestamp":"2025-12-09T08:31:04.404Z"}
+{"correlationId":"0e17e808-e0f8-4b84-90c1-55fea5c2575c","level":"info","message":"[0e17e808-e0f8-4b84-90c1-55fea5c2575c] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:31:04.412Z"}
+{"correlationId":"0e17e808-e0f8-4b84-90c1-55fea5c2575c","level":"info","message":"[0e17e808-e0f8-4b84-90c1-55fea5c2575c] Response status: 304","timestamp":"2025-12-09T08:31:04.418Z"}
+{"correlationId":"7ee59fc3-4a1f-4dfd-a280-03e23a8f6bc8","level":"info","message":"[7ee59fc3-4a1f-4dfd-a280-03e23a8f6bc8] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:31:04.868Z"}
+{"correlationId":"7ee59fc3-4a1f-4dfd-a280-03e23a8f6bc8","level":"info","message":"[7ee59fc3-4a1f-4dfd-a280-03e23a8f6bc8] Response status: 304","timestamp":"2025-12-09T08:31:04.875Z"}
+{"correlationId":"253f4677-fb2f-40c9-a2fa-d5710ae7b181","level":"info","message":"[253f4677-fb2f-40c9-a2fa-d5710ae7b181] GET /api/student/certificate/52","timestamp":"2025-12-09T08:31:16.529Z"}
+{"correlationId":"253f4677-fb2f-40c9-a2fa-d5710ae7b181","level":"info","message":"[253f4677-fb2f-40c9-a2fa-d5710ae7b181] Response status: 304","timestamp":"2025-12-09T08:31:16.574Z"}
+{"correlationId":"b46817a4-4fb7-4272-a261-87c094272a6b","level":"info","message":"[b46817a4-4fb7-4272-a261-87c094272a6b] GET /api/student/templates","timestamp":"2025-12-09T08:31:25.056Z"}
+{"correlationId":"52f60964-8a5e-4f5e-8ed5-7433fb5f60bc","level":"info","message":"[52f60964-8a5e-4f5e-8ed5-7433fb5f60bc] GET /api/student/requests","timestamp":"2025-12-09T08:31:25.064Z"}
+{"correlationId":"b46817a4-4fb7-4272-a261-87c094272a6b","level":"info","message":"[b46817a4-4fb7-4272-a261-87c094272a6b] Response status: 304","timestamp":"2025-12-09T08:31:25.078Z"}
+{"correlationId":"52f60964-8a5e-4f5e-8ed5-7433fb5f60bc","level":"info","message":"[52f60964-8a5e-4f5e-8ed5-7433fb5f60bc] Response status: 304","timestamp":"2025-12-09T08:31:25.085Z"}
+{"correlationId":"5d21eb66-7222-4b2d-ad19-fec752d83cc5","level":"info","message":"[5d21eb66-7222-4b2d-ad19-fec752d83cc5] GET /api/student/requests","timestamp":"2025-12-09T08:31:25.133Z"}
+{"correlationId":"a524c48f-c5a2-429b-a10e-16d36bb0858d","level":"info","message":"[a524c48f-c5a2-429b-a10e-16d36bb0858d] GET /api/student/templates","timestamp":"2025-12-09T08:31:25.136Z"}
+{"correlationId":"5d21eb66-7222-4b2d-ad19-fec752d83cc5","level":"info","message":"[5d21eb66-7222-4b2d-ad19-fec752d83cc5] Response status: 304","timestamp":"2025-12-09T08:31:25.140Z"}
+{"correlationId":"a524c48f-c5a2-429b-a10e-16d36bb0858d","level":"info","message":"[a524c48f-c5a2-429b-a10e-16d36bb0858d] Response status: 304","timestamp":"2025-12-09T08:31:25.151Z"}
+{"correlationId":"07a4a883-9a1d-44df-9000-beae6dc32b73","level":"info","message":"[07a4a883-9a1d-44df-9000-beae6dc32b73] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:31:29.138Z"}
+{"correlationId":"07a4a883-9a1d-44df-9000-beae6dc32b73","level":"info","message":"[07a4a883-9a1d-44df-9000-beae6dc32b73] Response status: 304","timestamp":"2025-12-09T08:31:29.145Z"}
+{"correlationId":"259b0f67-c797-4176-856c-91f947a19819","level":"info","message":"[259b0f67-c797-4176-856c-91f947a19819] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:31:29.191Z"}
+{"correlationId":"259b0f67-c797-4176-856c-91f947a19819","level":"info","message":"[259b0f67-c797-4176-856c-91f947a19819] Response status: 304","timestamp":"2025-12-09T08:31:29.199Z"}
+{"correlationId":"e5e82115-44ea-4f93-ac53-eba21e31ebbb","level":"info","message":"[e5e82115-44ea-4f93-ac53-eba21e31ebbb] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:31:29.617Z"}
+{"correlationId":"e5e82115-44ea-4f93-ac53-eba21e31ebbb","level":"info","message":"[e5e82115-44ea-4f93-ac53-eba21e31ebbb] Response status: 304","timestamp":"2025-12-09T08:31:29.624Z"}
+{"correlationId":"978bf3eb-96dd-43c8-823b-d19b186f105c","level":"info","message":"[978bf3eb-96dd-43c8-823b-d19b186f105c] POST /api/auth/login","timestamp":"2025-12-09T08:31:43.570Z"}
+{"correlationId":"978bf3eb-96dd-43c8-823b-d19b186f105c","level":"info","message":"[978bf3eb-96dd-43c8-823b-d19b186f105c] Response status: 200","timestamp":"2025-12-09T08:31:43.719Z"}
+{"correlationId":"595d05f9-0e6f-4c45-98bb-c8e06bf26b2d","level":"info","message":"[595d05f9-0e6f-4c45-98bb-c8e06bf26b2d] GET /api/institute/templates","timestamp":"2025-12-09T08:31:43.749Z"}
+{"correlationId":"e09a1e3f-3e73-4bb6-9ef0-51087ddfaf85","level":"info","message":"[e09a1e3f-3e73-4bb6-9ef0-51087ddfaf85] GET /api/institute/requests","timestamp":"2025-12-09T08:31:43.752Z"}
+{"correlationId":"595d05f9-0e6f-4c45-98bb-c8e06bf26b2d","level":"info","message":"[595d05f9-0e6f-4c45-98bb-c8e06bf26b2d] Response status: 304","timestamp":"2025-12-09T08:31:43.767Z"}
+{"correlationId":"e09a1e3f-3e73-4bb6-9ef0-51087ddfaf85","level":"info","message":"[e09a1e3f-3e73-4bb6-9ef0-51087ddfaf85] Response status: 200","timestamp":"2025-12-09T08:31:43.771Z"}
+{"correlationId":"26a12091-b17a-4e55-b58c-bba648aa0358","level":"info","message":"[26a12091-b17a-4e55-b58c-bba648aa0358] GET /api/institute/templates","timestamp":"2025-12-09T08:31:43.773Z"}
+{"correlationId":"26a12091-b17a-4e55-b58c-bba648aa0358","level":"info","message":"[26a12091-b17a-4e55-b58c-bba648aa0358] Response status: 304","timestamp":"2025-12-09T08:31:43.782Z"}
+{"correlationId":"e490af3b-47bf-4ead-a12f-bdcf715b06a9","level":"info","message":"[e490af3b-47bf-4ead-a12f-bdcf715b06a9] GET /api/institute/requests","timestamp":"2025-12-09T08:31:43.787Z"}
+{"correlationId":"e490af3b-47bf-4ead-a12f-bdcf715b06a9","level":"info","message":"[e490af3b-47bf-4ead-a12f-bdcf715b06a9] Response status: 304","timestamp":"2025-12-09T08:31:43.790Z"}
+{"correlationId":"382906a0-9587-4b0c-82d1-218929c7a739","level":"info","message":"[382906a0-9587-4b0c-82d1-218929c7a739] PUT /api/institute/requests/54","timestamp":"2025-12-09T08:31:48.333Z"}
+{"correlationId":"382906a0-9587-4b0c-82d1-218929c7a739","level":"info","message":"[382906a0-9587-4b0c-82d1-218929c7a739] Generated Hash: 63827d8a36302745998552bdbbd4c93a4fca6cca7965f10524de0ac4015499bb","timestamp":"2025-12-09T08:31:48.451Z"}
+{"level":"warn","message":"Attempt 1 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-09T08:31:48.500Z"}
+{"level":"warn","message":"Attempt 2 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-09T08:31:50.535Z"}
+{"level":"warn","message":"Attempt 3 failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-09T08:31:54.567Z"}
+{"level":"error","message":"All 3 attempts failed.","timestamp":"2025-12-09T08:31:54.570Z"}
+{"level":"error","message":"Blockchain transaction failed: connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-09T08:31:54.571Z"}
+{"correlationId":"382906a0-9587-4b0c-82d1-218929c7a739","level":"warn","message":"[382906a0-9587-4b0c-82d1-218929c7a739] Blockchain publication failed (continuing without it): connect ECONNREFUSED 127.0.0.1:8545","timestamp":"2025-12-09T08:31:54.573Z"}
+{"correlationId":"382906a0-9587-4b0c-82d1-218929c7a739","level":"info","message":"[382906a0-9587-4b0c-82d1-218929c7a739] Response status: 200","timestamp":"2025-12-09T08:32:01.750Z"}
+{"correlationId":"d18775e2-387a-49a1-8dbc-a4e5154e9268","level":"info","message":"[d18775e2-387a-49a1-8dbc-a4e5154e9268] GET /api/institute/requests","timestamp":"2025-12-09T08:32:01.782Z"}
+{"correlationId":"d18775e2-387a-49a1-8dbc-a4e5154e9268","level":"info","message":"[d18775e2-387a-49a1-8dbc-a4e5154e9268] Response status: 200","timestamp":"2025-12-09T08:32:01.789Z"}
+{"correlationId":"22fb54fc-ab09-40e8-ae3d-be694ff8882b","level":"info","message":"[22fb54fc-ab09-40e8-ae3d-be694ff8882b] GET /api/institute/analytics","timestamp":"2025-12-09T08:32:09.686Z"}
+{"correlationId":"22fb54fc-ab09-40e8-ae3d-be694ff8882b","level":"info","message":"[22fb54fc-ab09-40e8-ae3d-be694ff8882b] Response status: 200","timestamp":"2025-12-09T08:32:09.731Z"}
+{"correlationId":"536df580-f386-4bad-8cc8-66a7334272f5","level":"info","message":"[536df580-f386-4bad-8cc8-66a7334272f5] GET /api/institute/analytics","timestamp":"2025-12-09T08:32:09.740Z"}
+{"correlationId":"536df580-f386-4bad-8cc8-66a7334272f5","level":"info","message":"[536df580-f386-4bad-8cc8-66a7334272f5] Response status: 304","timestamp":"2025-12-09T08:32:09.766Z"}
+{"correlationId":"e521c673-3e62-4fe6-88e7-80454cd52c4a","level":"info","message":"[e521c673-3e62-4fe6-88e7-80454cd52c4a] POST /api/auth/login","timestamp":"2025-12-09T08:32:24.967Z"}
+{"correlationId":"e521c673-3e62-4fe6-88e7-80454cd52c4a","level":"info","message":"[e521c673-3e62-4fe6-88e7-80454cd52c4a] Response status: 200","timestamp":"2025-12-09T08:32:25.106Z"}
+{"correlationId":"64c74900-c9e8-4168-a1ec-87040405a40d","level":"info","message":"[64c74900-c9e8-4168-a1ec-87040405a40d] GET /api/student/templates","timestamp":"2025-12-09T08:32:25.153Z"}
+{"correlationId":"393eba14-3896-49f6-9bf3-575ed609be4e","level":"info","message":"[393eba14-3896-49f6-9bf3-575ed609be4e] GET /api/student/requests","timestamp":"2025-12-09T08:32:25.157Z"}
+{"correlationId":"64c74900-c9e8-4168-a1ec-87040405a40d","level":"info","message":"[64c74900-c9e8-4168-a1ec-87040405a40d] Response status: 304","timestamp":"2025-12-09T08:32:25.161Z"}
+{"correlationId":"393eba14-3896-49f6-9bf3-575ed609be4e","level":"info","message":"[393eba14-3896-49f6-9bf3-575ed609be4e] Response status: 200","timestamp":"2025-12-09T08:32:25.164Z"}
+{"correlationId":"61e0826b-bb9d-4d52-a2af-4fabdc7aa524","level":"info","message":"[61e0826b-bb9d-4d52-a2af-4fabdc7aa524] GET /api/student/templates","timestamp":"2025-12-09T08:32:25.184Z"}
+{"correlationId":"d78eaa30-49fb-4735-9a53-5755c9bfddf8","level":"info","message":"[d78eaa30-49fb-4735-9a53-5755c9bfddf8] GET /api/student/requests","timestamp":"2025-12-09T08:32:25.189Z"}
+{"correlationId":"61e0826b-bb9d-4d52-a2af-4fabdc7aa524","level":"info","message":"[61e0826b-bb9d-4d52-a2af-4fabdc7aa524] Response status: 304","timestamp":"2025-12-09T08:32:25.196Z"}
+{"correlationId":"d78eaa30-49fb-4735-9a53-5755c9bfddf8","level":"info","message":"[d78eaa30-49fb-4735-9a53-5755c9bfddf8] Response status: 304","timestamp":"2025-12-09T08:32:25.200Z"}
+{"correlationId":"3f77581e-aa50-4adf-ad74-b6a44e67f9b3","level":"info","message":"[3f77581e-aa50-4adf-ad74-b6a44e67f9b3] GET /api/student/certificate/54","timestamp":"2025-12-09T08:32:28.552Z"}
+{"correlationId":"3f77581e-aa50-4adf-ad74-b6a44e67f9b3","level":"info","message":"[3f77581e-aa50-4adf-ad74-b6a44e67f9b3] Response status: 200","timestamp":"2025-12-09T08:32:28.577Z"}
+{"correlationId":"9a6240af-6ebc-4dc1-9e18-e8c19037f5dc","level":"info","message":"[9a6240af-6ebc-4dc1-9e18-e8c19037f5dc] GET /api/qrcode/63827d8a36302745998552bdbbd4c93a4fca6cca7965f10524de0ac4015499bb","timestamp":"2025-12-09T08:32:28.591Z"}
+{"correlationId":"9a6240af-6ebc-4dc1-9e18-e8c19037f5dc","level":"info","message":"[9a6240af-6ebc-4dc1-9e18-e8c19037f5dc] Response status: 200","timestamp":"2025-12-09T08:32:28.681Z"}
+{"correlationId":"7dc10b70-b832-4ecd-8673-4ed8278ad904","level":"info","message":"[7dc10b70-b832-4ecd-8673-4ed8278ad904] GET /api/verify/63827d8a36302745998552bdbbd4c93a4fca6cca7965f10524de0ac4015499bb","timestamp":"2025-12-09T08:33:48.983Z"}
+{"correlationId":"7dc10b70-b832-4ecd-8673-4ed8278ad904","level":"info","message":"[7dc10b70-b832-4ecd-8673-4ed8278ad904] Response status: 200","timestamp":"2025-12-09T08:33:49.133Z"}
+{"correlationId":"dc7292de-f939-430e-8871-898c5ad8cd8b","level":"info","message":"[dc7292de-f939-430e-8871-898c5ad8cd8b] GET /api/verify/63827d8a36302745998552bdbbd4c93a4fca6cca7965f10524de0ac4015499bb","timestamp":"2025-12-09T08:33:49.144Z"}
+{"correlationId":"dc7292de-f939-430e-8871-898c5ad8cd8b","level":"info","message":"[dc7292de-f939-430e-8871-898c5ad8cd8b] Response status: 304","timestamp":"2025-12-09T08:33:49.152Z"}
+{"correlationId":"bc4c8b11-f18c-4b03-90b6-5a0670316ce6","level":"info","message":"[bc4c8b11-f18c-4b03-90b6-5a0670316ce6] POST /api/auth/login","timestamp":"2025-12-09T08:36:15.129Z"}
+{"correlationId":"bc4c8b11-f18c-4b03-90b6-5a0670316ce6","level":"info","message":"[bc4c8b11-f18c-4b03-90b6-5a0670316ce6] Response status: 200","timestamp":"2025-12-09T08:36:15.327Z"}
+{"correlationId":"3307b6f4-8d52-4a2c-b0ad-a28effa0ca4a","level":"info","message":"[3307b6f4-8d52-4a2c-b0ad-a28effa0ca4a] GET /api/student/templates","timestamp":"2025-12-09T08:36:15.517Z"}
+{"correlationId":"ed6d1551-d8f1-47c9-bde0-b18e0356d487","level":"info","message":"[ed6d1551-d8f1-47c9-bde0-b18e0356d487] GET /api/student/requests","timestamp":"2025-12-09T08:36:15.524Z"}
+{"correlationId":"3307b6f4-8d52-4a2c-b0ad-a28effa0ca4a","level":"info","message":"[3307b6f4-8d52-4a2c-b0ad-a28effa0ca4a] Response status: 200","timestamp":"2025-12-09T08:36:15.532Z"}
+{"correlationId":"ed6d1551-d8f1-47c9-bde0-b18e0356d487","level":"info","message":"[ed6d1551-d8f1-47c9-bde0-b18e0356d487] Response status: 200","timestamp":"2025-12-09T08:36:15.543Z"}
+{"correlationId":"fc69c973-dd23-427c-be36-68a62c7a5ea4","level":"info","message":"[fc69c973-dd23-427c-be36-68a62c7a5ea4] GET /api/student/templates","timestamp":"2025-12-09T08:36:15.556Z"}
+{"correlationId":"fc69c973-dd23-427c-be36-68a62c7a5ea4","level":"info","message":"[fc69c973-dd23-427c-be36-68a62c7a5ea4] Response status: 304","timestamp":"2025-12-09T08:36:15.568Z"}
+{"correlationId":"bfe1c01a-f6ae-4245-8087-89e816a5aa8d","level":"info","message":"[bfe1c01a-f6ae-4245-8087-89e816a5aa8d] GET /api/student/requests","timestamp":"2025-12-09T08:36:15.572Z"}
+{"correlationId":"bfe1c01a-f6ae-4245-8087-89e816a5aa8d","level":"info","message":"[bfe1c01a-f6ae-4245-8087-89e816a5aa8d] Response status: 304","timestamp":"2025-12-09T08:36:15.581Z"}
+{"level":"info","message":"Blockchain queue initialized","timestamp":"2025-12-09T08:52:35.394Z"}
+{"correlationId":"9c74c1ae-673d-49fb-8870-70917727b8a0","level":"info","message":"[9c74c1ae-673d-49fb-8870-70917727b8a0] POST /api/auth/forgot-password","timestamp":"2025-12-09T08:55:04.501Z"}
+{"correlationId":"9c74c1ae-673d-49fb-8870-70917727b8a0","level":"info","message":"[9c74c1ae-673d-49fb-8870-70917727b8a0] Response status: 200","timestamp":"2025-12-09T08:55:10.667Z"}
+{"correlationId":"8337042b-8a97-4bec-9146-50c9e962c991","level":"info","message":"[8337042b-8a97-4bec-9146-50c9e962c991] GET /api/auth/verify-reset-token/337aa0ab61f34caae0523ecc1a8fe26f60f7ba427a19eb451c236dfe73ac2cb0","timestamp":"2025-12-09T08:55:23.664Z"}
+{"correlationId":"8337042b-8a97-4bec-9146-50c9e962c991","level":"info","message":"[8337042b-8a97-4bec-9146-50c9e962c991] Response status: 200","timestamp":"2025-12-09T08:55:23.685Z"}
+{"correlationId":"640b51e8-2c3d-4971-8aab-d9a46f7344aa","level":"info","message":"[640b51e8-2c3d-4971-8aab-d9a46f7344aa] GET /api/auth/verify-reset-token/337aa0ab61f34caae0523ecc1a8fe26f60f7ba427a19eb451c236dfe73ac2cb0","timestamp":"2025-12-09T08:55:23.699Z"}
+{"correlationId":"640b51e8-2c3d-4971-8aab-d9a46f7344aa","level":"info","message":"[640b51e8-2c3d-4971-8aab-d9a46f7344aa] Response status: 304","timestamp":"2025-12-09T08:55:23.723Z"}
+{"correlationId":"e7d0566d-019e-425c-b22f-02b7b03c629d","level":"info","message":"[e7d0566d-019e-425c-b22f-02b7b03c629d] POST /api/auth/login","timestamp":"2025-12-09T08:56:13.399Z"}
+{"correlationId":"e7d0566d-019e-425c-b22f-02b7b03c629d","level":"info","message":"[e7d0566d-019e-425c-b22f-02b7b03c629d] Response status: 200","timestamp":"2025-12-09T08:56:13.606Z"}
+{"correlationId":"cb9a2142-6f9f-4447-9cef-badf68e97a54","level":"info","message":"[cb9a2142-6f9f-4447-9cef-badf68e97a54] GET /api/student/templates","timestamp":"2025-12-09T08:56:13.687Z"}
+{"correlationId":"cd2ce253-a229-40ac-bf45-5c126127a09f","level":"info","message":"[cd2ce253-a229-40ac-bf45-5c126127a09f] GET /api/student/requests","timestamp":"2025-12-09T08:56:13.715Z"}
+{"correlationId":"cb9a2142-6f9f-4447-9cef-badf68e97a54","level":"info","message":"[cb9a2142-6f9f-4447-9cef-badf68e97a54] Response status: 200","timestamp":"2025-12-09T08:56:13.740Z"}
+{"correlationId":"27a5a1fa-21e1-406f-aa39-44ec14428c03","level":"info","message":"[27a5a1fa-21e1-406f-aa39-44ec14428c03] GET /api/student/templates","timestamp":"2025-12-09T08:56:13.753Z"}
+{"correlationId":"27a5a1fa-21e1-406f-aa39-44ec14428c03","level":"info","message":"[27a5a1fa-21e1-406f-aa39-44ec14428c03] Response status: 304","timestamp":"2025-12-09T08:56:13.770Z"}
+{"correlationId":"cd2ce253-a229-40ac-bf45-5c126127a09f","level":"info","message":"[cd2ce253-a229-40ac-bf45-5c126127a09f] Response status: 200","timestamp":"2025-12-09T08:56:13.820Z"}
+{"correlationId":"8562e9b1-639d-438b-aff0-cdd7a20233be","level":"info","message":"[8562e9b1-639d-438b-aff0-cdd7a20233be] GET /api/student/requests","timestamp":"2025-12-09T08:56:13.837Z"}
+{"correlationId":"8562e9b1-639d-438b-aff0-cdd7a20233be","level":"info","message":"[8562e9b1-639d-438b-aff0-cdd7a20233be] Response status: 304","timestamp":"2025-12-09T08:56:13.840Z"}
+{"correlationId":"8bd0af16-5115-4388-9343-8a326d36fc6e","level":"info","message":"[8bd0af16-5115-4388-9343-8a326d36fc6e] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:56:44.070Z"}
+{"correlationId":"8bd0af16-5115-4388-9343-8a326d36fc6e","level":"info","message":"[8bd0af16-5115-4388-9343-8a326d36fc6e] Response status: 200","timestamp":"2025-12-09T08:56:44.114Z"}
+{"correlationId":"769a770d-4ba7-45b2-a42f-58b247f4588a","level":"info","message":"[769a770d-4ba7-45b2-a42f-58b247f4588a] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:56:44.141Z"}
+{"correlationId":"769a770d-4ba7-45b2-a42f-58b247f4588a","level":"info","message":"[769a770d-4ba7-45b2-a42f-58b247f4588a] Response status: 304","timestamp":"2025-12-09T08:56:44.150Z"}
+{"correlationId":"dd347748-18f7-4e72-8615-de6205e73294","level":"info","message":"[dd347748-18f7-4e72-8615-de6205e73294] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:56:44.557Z"}
+{"correlationId":"dd347748-18f7-4e72-8615-de6205e73294","level":"info","message":"[dd347748-18f7-4e72-8615-de6205e73294] Response status: 304","timestamp":"2025-12-09T08:56:44.565Z"}
+{"correlationId":"524a041f-6b0c-457c-8ea8-4727eef9f80d","level":"info","message":"[524a041f-6b0c-457c-8ea8-4727eef9f80d] GET /api/student/certificate/52","timestamp":"2025-12-09T08:56:50.823Z"}
+{"correlationId":"524a041f-6b0c-457c-8ea8-4727eef9f80d","level":"info","message":"[524a041f-6b0c-457c-8ea8-4727eef9f80d] Response status: 200","timestamp":"2025-12-09T08:56:50.867Z"}
+{"correlationId":"0a3796f0-7a7b-400c-924b-3c99a3eb32d4","level":"info","message":"[0a3796f0-7a7b-400c-924b-3c99a3eb32d4] GET /api/student/templates","timestamp":"2025-12-09T08:57:01.991Z"}
+{"correlationId":"0a3796f0-7a7b-400c-924b-3c99a3eb32d4","level":"info","message":"[0a3796f0-7a7b-400c-924b-3c99a3eb32d4] Response status: 304","timestamp":"2025-12-09T08:57:02.001Z"}
+{"correlationId":"58e8e23f-7ca9-4c07-9bcf-45db58ec92fd","level":"info","message":"[58e8e23f-7ca9-4c07-9bcf-45db58ec92fd] GET /api/student/requests","timestamp":"2025-12-09T08:57:02.005Z"}
+{"correlationId":"58e8e23f-7ca9-4c07-9bcf-45db58ec92fd","level":"info","message":"[58e8e23f-7ca9-4c07-9bcf-45db58ec92fd] Response status: 304","timestamp":"2025-12-09T08:57:02.017Z"}
+{"correlationId":"242e311e-96ed-4caf-8de2-a05e91da0ac2","level":"info","message":"[242e311e-96ed-4caf-8de2-a05e91da0ac2] GET /api/student/templates","timestamp":"2025-12-09T08:57:02.039Z"}
+{"correlationId":"242e311e-96ed-4caf-8de2-a05e91da0ac2","level":"info","message":"[242e311e-96ed-4caf-8de2-a05e91da0ac2] Response status: 304","timestamp":"2025-12-09T08:57:02.042Z"}
+{"correlationId":"095a8c5d-2200-4e72-a4e2-6b26b25505ef","level":"info","message":"[095a8c5d-2200-4e72-a4e2-6b26b25505ef] GET /api/student/requests","timestamp":"2025-12-09T08:57:02.054Z"}
+{"correlationId":"095a8c5d-2200-4e72-a4e2-6b26b25505ef","level":"info","message":"[095a8c5d-2200-4e72-a4e2-6b26b25505ef] Response status: 304","timestamp":"2025-12-09T08:57:02.059Z"}
+{"correlationId":"5b3237b2-e5ef-43d7-b5c1-b1b64e42e570","level":"info","message":"[5b3237b2-e5ef-43d7-b5c1-b1b64e42e570] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:57:03.921Z"}
+{"correlationId":"5b3237b2-e5ef-43d7-b5c1-b1b64e42e570","level":"info","message":"[5b3237b2-e5ef-43d7-b5c1-b1b64e42e570] Response status: 304","timestamp":"2025-12-09T08:57:03.933Z"}
+{"correlationId":"f1082975-802c-4184-b2a6-24190fa639c6","level":"info","message":"[f1082975-802c-4184-b2a6-24190fa639c6] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:57:03.948Z"}
+{"correlationId":"f1082975-802c-4184-b2a6-24190fa639c6","level":"info","message":"[f1082975-802c-4184-b2a6-24190fa639c6] Response status: 304","timestamp":"2025-12-09T08:57:03.957Z"}
+{"correlationId":"78654256-291c-4574-a94c-99310f9a4d5c","level":"info","message":"[78654256-291c-4574-a94c-99310f9a4d5c] GET /api/students/75/certificates?page=1&limit=10&type=All&status=All&search=","timestamp":"2025-12-09T08:57:04.400Z"}
+{"correlationId":"78654256-291c-4574-a94c-99310f9a4d5c","level":"info","message":"[78654256-291c-4574-a94c-99310f9a4d5c] Response status: 304","timestamp":"2025-12-09T08:57:04.406Z"}
+{"correlationId":"ca949e50-99fc-44fc-aa6a-08c045be18b5","level":"info","message":"[ca949e50-99fc-44fc-aa6a-08c045be18b5] GET /api/student/certificate/54","timestamp":"2025-12-09T08:57:07.052Z"}
+{"correlationId":"ca949e50-99fc-44fc-aa6a-08c045be18b5","level":"info","message":"[ca949e50-99fc-44fc-aa6a-08c045be18b5] Response status: 200","timestamp":"2025-12-09T08:57:07.075Z"}
+{"correlationId":"a491577b-ee81-4ab0-8f73-46a75e91f8b1","level":"info","message":"[a491577b-ee81-4ab0-8f73-46a75e91f8b1] GET /api/student/templates","timestamp":"2025-12-09T08:57:20.258Z"}
+{"correlationId":"bfedcbf2-7f62-4788-a99d-68953bb330fd","level":"info","message":"[bfedcbf2-7f62-4788-a99d-68953bb330fd] GET /api/student/requests","timestamp":"2025-12-09T08:57:20.267Z"}
+{"correlationId":"a491577b-ee81-4ab0-8f73-46a75e91f8b1","level":"info","message":"[a491577b-ee81-4ab0-8f73-46a75e91f8b1] Response status: 304","timestamp":"2025-12-09T08:57:20.333Z"}
+{"correlationId":"bfedcbf2-7f62-4788-a99d-68953bb330fd","level":"info","message":"[bfedcbf2-7f62-4788-a99d-68953bb330fd] Response status: 304","timestamp":"2025-12-09T08:57:20.353Z"}
+{"correlationId":"378d44f6-2c2d-4eee-a371-b91f0f06d157","level":"info","message":"[378d44f6-2c2d-4eee-a371-b91f0f06d157] GET /api/student/templates","timestamp":"2025-12-09T08:57:20.374Z"}
+{"correlationId":"a82899d5-bcf1-412c-863e-a6559c56af04","level":"info","message":"[a82899d5-bcf1-412c-863e-a6559c56af04] GET /api/student/requests","timestamp":"2025-12-09T08:57:20.387Z"}
+{"correlationId":"378d44f6-2c2d-4eee-a371-b91f0f06d157","level":"info","message":"[378d44f6-2c2d-4eee-a371-b91f0f06d157] Response status: 304","timestamp":"2025-12-09T08:57:20.406Z"}
+{"correlationId":"a82899d5-bcf1-412c-863e-a6559c56af04","level":"info","message":"[a82899d5-bcf1-412c-863e-a6559c56af04] Response status: 304","timestamp":"2025-12-09T08:57:20.423Z"}
+{"correlationId":"0ee5ad29-bb90-45a9-a60a-3dbabc529366","level":"info","message":"[0ee5ad29-bb90-45a9-a60a-3dbabc529366] POST /api/auth/login","timestamp":"2025-12-09T08:58:31.010Z"}
+{"correlationId":"0ee5ad29-bb90-45a9-a60a-3dbabc529366","level":"info","message":"[0ee5ad29-bb90-45a9-a60a-3dbabc529366] Response status: 400","timestamp":"2025-12-09T08:58:31.019Z"}
+{"correlationId":"ffe50520-041b-4d4a-8c44-3aa1bc8b4abd","level":"info","message":"[ffe50520-041b-4d4a-8c44-3aa1bc8b4abd] POST /api/auth/login","timestamp":"2025-12-09T08:58:43.220Z"}
+{"correlationId":"ffe50520-041b-4d4a-8c44-3aa1bc8b4abd","level":"info","message":"[ffe50520-041b-4d4a-8c44-3aa1bc8b4abd] Response status: 200","timestamp":"2025-12-09T08:58:43.422Z"}
+{"correlationId":"9a5cd12d-bf65-4599-a27e-23d32db22d84","level":"info","message":"[9a5cd12d-bf65-4599-a27e-23d32db22d84] GET /api/institute/templates","timestamp":"2025-12-09T08:58:43.481Z"}
+{"correlationId":"9a5cd12d-bf65-4599-a27e-23d32db22d84","level":"info","message":"[9a5cd12d-bf65-4599-a27e-23d32db22d84] Response status: 200","timestamp":"2025-12-09T08:58:43.526Z"}
+{"correlationId":"587ddea6-7aae-4e58-827b-10516bf1749b","level":"info","message":"[587ddea6-7aae-4e58-827b-10516bf1749b] GET /api/institute/requests","timestamp":"2025-12-09T08:58:43.540Z"}
+{"correlationId":"587ddea6-7aae-4e58-827b-10516bf1749b","level":"info","message":"[587ddea6-7aae-4e58-827b-10516bf1749b] Response status: 200","timestamp":"2025-12-09T08:58:43.555Z"}
+{"correlationId":"51f2ef4a-ae3f-4c53-bb8e-9eb063f2d246","level":"info","message":"[51f2ef4a-ae3f-4c53-bb8e-9eb063f2d246] GET /api/institute/templates","timestamp":"2025-12-09T08:58:43.573Z"}
+{"correlationId":"51f2ef4a-ae3f-4c53-bb8e-9eb063f2d246","level":"info","message":"[51f2ef4a-ae3f-4c53-bb8e-9eb063f2d246] Response status: 304","timestamp":"2025-12-09T08:58:43.580Z"}
+{"correlationId":"e942185d-252d-4106-917d-f542413b2521","level":"info","message":"[e942185d-252d-4106-917d-f542413b2521] GET /api/institute/requests","timestamp":"2025-12-09T08:58:43.587Z"}
+{"correlationId":"e942185d-252d-4106-917d-f542413b2521","level":"info","message":"[e942185d-252d-4106-917d-f542413b2521] Response status: 304","timestamp":"2025-12-09T08:58:43.596Z"}
+{"correlationId":"6e077fb8-0aa5-4769-9925-a3d6cc910757","level":"info","message":"[6e077fb8-0aa5-4769-9925-a3d6cc910757] GET /api/institute/templates","timestamp":"2025-12-09T08:58:54.797Z"}
+{"correlationId":"98582c27-b734-4732-b915-87f9fa8598a0","level":"info","message":"[98582c27-b734-4732-b915-87f9fa8598a0] GET /api/institute/requests","timestamp":"2025-12-09T08:58:54.798Z"}
+{"correlationId":"6e077fb8-0aa5-4769-9925-a3d6cc910757","level":"info","message":"[6e077fb8-0aa5-4769-9925-a3d6cc910757] Response status: 304","timestamp":"2025-12-09T08:58:54.800Z"}
+{"correlationId":"0f86e786-19a3-48e2-9266-376812bd65ed","level":"info","message":"[0f86e786-19a3-48e2-9266-376812bd65ed] GET /api/institute/templates","timestamp":"2025-12-09T08:58:54.805Z"}
+{"correlationId":"98582c27-b734-4732-b915-87f9fa8598a0","level":"info","message":"[98582c27-b734-4732-b915-87f9fa8598a0] Response status: 304","timestamp":"2025-12-09T08:58:54.807Z"}
+{"correlationId":"0f86e786-19a3-48e2-9266-376812bd65ed","level":"info","message":"[0f86e786-19a3-48e2-9266-376812bd65ed] Response status: 304","timestamp":"2025-12-09T08:58:54.821Z"}
+{"correlationId":"a30d27c1-8e08-4c73-be6c-93d701fd172d","level":"info","message":"[a30d27c1-8e08-4c73-be6c-93d701fd172d] GET /api/institute/requests","timestamp":"2025-12-09T08:58:54.834Z"}
+{"correlationId":"a30d27c1-8e08-4c73-be6c-93d701fd172d","level":"info","message":"[a30d27c1-8e08-4c73-be6c-93d701fd172d] Response status: 304","timestamp":"2025-12-09T08:58:54.838Z"}
