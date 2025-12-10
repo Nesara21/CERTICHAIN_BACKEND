@@ -69,15 +69,17 @@ const authenticateToken = (req, res, next) => {
 
 app.post('/api/auth/login', async (req, res) => {
     const { username, password } = req.body;
+    console.log('Username and password '+username+"--"+password)
     const sql = `SELECT * FROM users WHERE username = ?`;
     try {
-        const [rows] = await db.execute(sql, [username]);
+        const [rows] = await db.query(sql, [username]);
         const user = rows[0];
 
         if (!user) return res.status(400).json({ error: 'User not found' });
 
         if (await bcrypt.compare(password, user.password)) {
             const token = jwt.sign({ id: user.id, username: user.username, role: user.role, name: user.name }, SECRET_KEY);
+            
             res.json({ token, role: user.role, name: user.name, id: user.id, usn: user.name });
         } else {
             res.status(400).json({ error: 'Invalid password' });
