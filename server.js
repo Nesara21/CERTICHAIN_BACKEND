@@ -72,7 +72,7 @@ app.post('/api/auth/login', async (req, res) => {
     console.log('Username and password '+username+"--"+password)
     const sql = `SELECT * FROM users WHERE username = ?`;
     try {
-        const [rows] = await db.query(sql, [username]);
+        const [rows] = await db.execute(sql, [username]);
         const user = rows[0];
 
         if (!user) return res.status(400).json({ error: 'User not found' });
