@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const bcrypt = require('bcrypt');
-const mysql = require('mysql2/promise')
+const mysql = require('mysql2')
 const jwt = require('jsonwebtoken');
 // const db = require('./database');
 const QRCode = require('qrcode');
@@ -33,7 +33,7 @@ const db = mysql.createConnection({
     password:process.env.DB_PASSWORD,
     database:process.env.DB_NAME,
     port:process.env.DB_PORT
-})
+}).promise();
 
 // Initialize Blockchain Queue only if RPC_URL and PRIVATE_KEY are provided
 if (process.env.RPC_URL && process.env.PRIVATE_KEY) {
