@@ -2,8 +2,9 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const bcrypt = require('bcrypt');
+const mysql = require('mysql2')
 const jwt = require('jsonwebtoken');
-const db = require('./database');
+// const db = require('./database');
 const QRCode = require('qrcode');
 const { Blockchain, Block } = require('./blockchain');
 require('dotenv').config();
@@ -14,6 +15,7 @@ const HOST = '0.0.0.0'; // Listen on all network interfaces
 const SECRET_KEY = process.env.JWT_SECRET || 'supersecretkey_certichain';
 const QR_BASE_URL = process.env.QR_BASE_URL || null;
 
+
 // --- Reliability Imports ---
 const { logger, requestLogger } = require('./lib/logger');
 const { idempotency } = require('./lib/idempotency');
@@ -21,6 +23,17 @@ const { blockchainQueue } = require('./lib/blockchainQueue');
 const { generatePdfBuffer } = require('./services/pdf');
 const { uploadToS3 } = require('./services/s3');
 const crypto = require('crypto'); // For SHA256
+
+
+
+
+const db = mysql.createConnection({
+    host:process.env.DB_HOST,
+    user:process.env.DB_USER,
+    password:process.env.DB_PASSWORD,
+    database:process.env.DB_NAME,
+    port:process.env.DB_PORT
+})
 
 // Initialize Blockchain Queue only if RPC_URL and PRIVATE_KEY are provided
 if (process.env.RPC_URL && process.env.PRIVATE_KEY) {
@@ -73,6 +86,18 @@ app.post('/api/auth/login', async (req, res) => {
         res.status(500).json({ error: err.message });
     }
 });
+const dbquery = "use railway"
+const dbTable = 'show tables'
+
+app.get('/show-db',(req,res)=>{
+    db.query(dbquery);
+    db.query(dbTable,(err,results)=>{
+        if(err)
+            res.json({status:err.message})
+        else
+            res.json(results)
+    })
+})
 
 app.post('/api/auth/signup', async (req, res) => {
     const { username, password, role, email } = req.body;
