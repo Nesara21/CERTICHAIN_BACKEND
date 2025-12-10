@@ -27,13 +27,17 @@ const crypto = require('crypto'); // For SHA256
 
 
 
-const db = mysql.createConnection({
+const db = mysql.createPool({
     host:process.env.DB_HOST,
     user:process.env.DB_USER,
     password:process.env.DB_PASSWORD,
     database:process.env.DB_NAME,
-    port:process.env.DB_PORT
-})
+    port:process.env.DB_PORT,
+    waitForConnections: true,
+    connectionLimit: 10,
+    queueLimit: 0
+});
+
 
 // Initialize Blockchain Queue only if RPC_URL and PRIVATE_KEY are provided
 if (process.env.RPC_URL && process.env.PRIVATE_KEY) {
@@ -91,15 +95,15 @@ app.post('/api/auth/login', async (req, res) => {
 const dbquery = "use railway"
 const dbTable = 'show tables'
 
-app.get('/show-db',(req,res)=>{
-    db.query(dbquery);
-    db.query(dbTable,(err,results)=>{
-        if(err)
-            res.json({status:err.message})
-        else
-            res.json(results)
-    })
-})
+app.get('/show-db', async (req, res) => {
+    try {
+        await db.query("USE railway");
+        const [rows] = await db.query("SHOW TABLES");
+        res.json(rows);
+    } catch (err) {
+        res.json({ status: err.message });
+    }
+});
 
 app.post('/api/auth/signup', async (req, res) => {
     const { username, password, role, email } = req.body;
